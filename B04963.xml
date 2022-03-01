@@ -1,0 +1,881 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Devout entertainments of a Christian soule. Composed in French by the R.F. I.H. Quarre, P. of the Oratory of Jesus, and D.D. Translated in English by J.M. of W. Prisoner in the Tower of London.</title>
+            <author>Quarré, Jean-Hugues, 1580-1656.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 133 KB of XML-encoded text transcribed from 103 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B04963</idno>
+            <idno type="STC">Wing Q146A</idno>
+            <idno type="STC">ESTC R182305</idno>
+            <idno type="EEBO-CITATION">53299222</idno>
+            <idno type="OCLC">ocm 53299222</idno>
+            <idno type="VID">179960</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B04963)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 179960)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2809:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Devout entertainments of a Christian soule. Composed in French by the R.F. I.H. Quarre, P. of the Oratory of Jesus, and D.D. Translated in English by J.M. of W. Prisoner in the Tower of London.</title>
+                  <author>Quarré, Jean-Hugues, 1580-1656.</author>
+                  <author>Winchester, John Paulet, Earl of, 1598-1675.</author>
+               </titleStmt>
+               <extent>[23], 180 p.   </extent>
+               <publicationStmt>
+                  <p>
+                     <name type="place">Printed at Paris,</name>
+                     <date>Anno Domini MDC XLVII. [1648]</date>
+                  </p>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Errata, p. [23].</note>
+                  <note>Reproduction of original in: Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>God --  Love --  Early works to 1800.</term>
+               <term>God --  Worship and love --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>Graham Hukill</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Graham Hukill</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:179960:1" rendition="simple:additions"/>
+            <p>DEVOUT ENTERTAINMENTS OF A Chriſtian Soule.</p>
+            <p>Compoſed in French by the R.F. <hi>I.H. Quarre,</hi> P. of the Ora<g ref="char:EOLhyphen"/>tory of JESUS, and D. D.</p>
+            <p>Tranſlated into Engliſh, by <hi>J. M. of W.</hi> Priſoner in the Tower of <hi>London.</hi>
+            </p>
+            <p>Printed at <hi>Paris,</hi> Anno Domini MDCXLVIII.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:179960:2"/>
+            <pb facs="tcp:179960:2"/>
+            <head>The Tranſlators Ad<g ref="char:EOLhyphen"/>dreſſe to the pious and Chriſtian Reader.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He moſt charitable and excellent title of this worke, is properly, me thinks, addreſſed unto you, <hi>(good Reader,)</hi> ſince you are the likelieſt to reliſh and make true uſe of the admirable con<g ref="char:EOLhyphen"/>ceptions which are offered you in this little golden Treatiſe. It came to my hands, as a <hi>Miſſive of Charity,</hi> ſent to entertaine me in my ſad impriſon<g ref="char:EOLhyphen"/>ment; and upon a ſerious peruſall, the finding it of ſo divine a ſpirit, and of ſo univerſall a concernment, was invitement enough to me to propoſe
+<pb facs="tcp:179960:3"/>the naturallizing theſe <hi>Meditations</hi> in our Countrey, by contributing ſo much as I am able to them, namely, an Engliſh Tongue, in which though they loſe ſomething of their native grace, yet I have reaſon to believe that the charity of the Authour will be content to be ſomewhat diminiſh'd himſelfe, to become more beneficiall to his neigh<g ref="char:EOLhyphen"/>bours; nor need I doubt, but that the force of his heavenly ſpirit will break through, even my groſſe language, and be not onely heard, but reverenced a<g ref="char:EOLhyphen"/>midſt the noiſe of Drums and Trum<g ref="char:EOLhyphen"/>pets, ſo frequent in theſe unhappy times, wherein we have more cauſe then ever, to remember the great <hi>Trumpet</hi> of the <hi>Angell;</hi> wherefore the voice of this <hi>Author</hi> (which ſeemes Angeli<g ref="char:EOLhyphen"/>call) will come very ſeaſonable, both to awake drowſie, and to advance pious ſoules in the ardors of their love to<g ref="char:EOLhyphen"/>wards God; for here is a loud <hi>Alarum</hi> for all ſleepy and ſlothfull Souldiers,
+<pb facs="tcp:179960:3"/>calling unto them to take up the <hi>Shield of Faith,</hi> and the <hi>Sword of the Spi<g ref="char:EOLhyphen"/>rit,</hi> to defend themſelves by the ſupply of ſo powerfull ſuccours, as theſe holy <hi>Meditations,</hi> againſt the furious aſ<g ref="char:EOLhyphen"/>ſaults of our common enemy, whoſe principall attempt is againſt (what theſe <hi>Entertainments</hi> ſeeke the moſt to fortifie, namely) the love of God.</p>
+            <p>The Authour ſhewes you, that <hi>this love of God is the moſt Eſſen<g ref="char:EOLhyphen"/>tiall point of Chriſtianity.</hi> Be watch<g ref="char:EOLhyphen"/>full therefore, I beſeech you, and keep this fortreſſe ſafe from the ſurprize of our profeſſed enemy, and then nothing can be feared; for God expects more at your hands, and in loving him you fulfill his whole Law, and ſweeten to your ſelves the rigour of all humane Lawes.</p>
+            <p>After he hath ſet you in the way of applying continually thoſe duties, which appertaine to the preſervation of you in this happy ſtate, he preſents you with
+<pb facs="tcp:179960:4"/>ſome Conſiderations upon the whole <hi>Paſſion</hi> of our <hi>bleſſed Saviour,</hi> as a powerfull motive to invite you to this pure love, which he demands of you, and to render homage to this exceſſive goodneſſe, for ſo great and ineſtimable a benefit, which it hath purchaſed for you at ſo dear a rate, as even the death of the onely Son of God.</p>
+            <p>And truly, when we looke upon the ſufferings which <hi>Jeſus Chriſt</hi> hath in<g ref="char:EOLhyphen"/>dured for us, ought we not to reproach our ſelves, for bearing impatiently a few croſſes and contradictions in this ſhort pilgrimage? for if ſo ſacred a per<g ref="char:EOLhyphen"/>ſon ſuſtained ſuch violent pains for us, can we conceive our ſelves exempt from them? No, no, let us rather be aſhamed at our cowardice and effemi<g ref="char:EOLhyphen"/>nate affections, in deſiring to find no oppoſition in our way, but to tread ſtill upon roſes, thornes ſeeming too harſh for our dainty feet, which (if they be ſo tender) cannot looke like
+<pb facs="tcp:179960:4"/>feet appertaining to a head ſtuck full of thornes; and alas, we cannot expect a ſhare in the glory of our head <hi>Chriſt Jeſus,</hi> if we (as his mem<g ref="char:EOLhyphen"/>bers) beare not willingly a part in his combats.</p>
+            <p>When we are called into the Field of the <hi>Croſſe,</hi> let us then conſider, how happie we are, that may make to our ſelves a Crowne of theſe thornes, whereof there are ſtore at hand in theſe hard times; let us march joyfully, that we may triumphantly paſſe through <hi>Mount Calvary, faſtned</hi> (as <hi>S. Paul</hi> ſaith) <hi>to the Croſſe with Chriſt;</hi> and this is the neareſt way to the heavenly <hi>Jeruſalem,</hi> where we ſhall be refreſhed after all our labours, with the ſight of that ſoveraigne object of our love, the <hi>increated Beauty and Verity,</hi> whoſe firſt ſight is no leſſe then eternall beatitude.</p>
+            <p>Deſiring to pay ſome reſpect to the Authour, I ſhall rather doe him in<g ref="char:EOLhyphen"/>jury,
+<pb facs="tcp:179960:5"/>if I keep you too long by any diſ<g ref="char:EOLhyphen"/>courſe of mine, from entering into his <hi>devout Entertainments,</hi> whoſe pray<g ref="char:EOLhyphen"/>ers you have, and mine ſhall preſume to attend on his, to implore an effica<g ref="char:EOLhyphen"/>cious operation of his holy labours, and my charitable deſigne.</p>
+            <closer>
+               <signed>J. W.</signed>
+            </closer>
+         </div>
+         <div type="introduction">
+            <pb facs="tcp:179960:5"/>
+            <head>The Introduction.</head>
+            <head type="sub">
+               <hi>Concerning the neceſsity of the Love of God.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">A</seg>LL the favours which Hea<g ref="char:EOLhyphen"/>ven ſhowres downe upon us, are only to withdraw us out of the captivity of ſin, and the world, and to place us in the liberty of the grace of <hi>Chriſtia<g ref="char:EOLhyphen"/>nity,</hi> to the end God may reigne in our hearts. It is for this reaſon wee are made <hi>Chriſtians,</hi> and receive the faith of <hi>Baptiſme: Jeſus Chriſt</hi> died on the <hi>Croſſe</hi> for this end, and when he deſcended from the boſome of his Father to be made Man, his de<g ref="char:EOLhyphen"/>ſigne was only to eſtabliſh the King<g ref="char:EOLhyphen"/>dome of God amongſt the children of men.</p>
+            <pb facs="tcp:179960:6"/>
+            <p>And if we may be allowed to en<g ref="char:EOLhyphen"/>ter into conſideration of the eternal thoughts of the eternall Father, we may eaſily diſcern, that in the whole <hi>Incarnation</hi> and <hi>Paſſion</hi> of his Son, and in the whole diſpoſition of our ſalvation, he hath no other aime, then to ſeat the Kingdome of God in our ſoules, and to procure that our heart (which is created only for God) may be really the Throne and reſidence of the Divinity: In effect, all the Sacraments, which <hi>Jeſus Chriſt</hi> himſelfe hath inſtituted, and left unto his Church, as ſo many ſprings and fountains of graces and benedictions, are onely to diſpoſe and place in us the Kingdome of <hi>Je<g ref="char:EOLhyphen"/>ſus Chriſt,</hi> to produce the reigning of God in us, and to aboliſh the dominion of the world, the Divell and Sin.</p>
+            <p>When <hi>Jeſus Chriſt</hi> taught his <hi>A<g ref="char:EOLhyphen"/>poſtles</hi> how they were to pray, he gave them the <hi>Pater Noſter,</hi> and
+<pb facs="tcp:179960:6"/>wills us to deſire above all things, <hi>that his Kingdome come;</hi> that is (ac<g ref="char:EOLhyphen"/>cording to S. <hi>Gregory</hi>) to ask of God, that God may reigne in us. And <hi>Ie<g ref="char:EOLhyphen"/>ſus Christ</hi> himſelfe ſaid to his Apo<g ref="char:EOLhyphen"/>ſtles, that the chiefeſt deſire of a <hi>Chriſtian</hi> ought to be, that God may reigne in his heart; <hi>Seeke firſt of all</hi> (ſaith he) <hi>the Kingdome of God.</hi> It is certain then, that God ought to reigne in us, not ſin, nor the world: And evident it is, that the grace of Chriſtianity cauſeth the Kingdome of God to preſide in our hearts.</p>
+            <p>Now God cannot reigne in us but by love and charity; for S. <hi>Iohn</hi> ſaith, <hi>God is charity; and he that a<g ref="char:EOLhyphen"/>bides in charity, abides in God and God in him.</hi> His meaning is, that by love God makes his reſidence in the ſoule, he placeth there his Throne, he reignes and commands there, and quickeneth the whole ſoule. He is there, as the Sun to the Heavens,. which illuminates all of it; as a King
+<pb facs="tcp:179960:7"/>in his Kingdome, who commands all; as the Father of a family in his houſe, who ruleth and directeth e<g ref="char:EOLhyphen"/>very thing. And even as wind diſ<g ref="char:EOLhyphen"/>perſes ſmoake, and fire liquifies and melts waxe; ſo Charity, which gives us God, and is even God himſelfe reigning in us, diſſipates our imper<g ref="char:EOLhyphen"/>fections, conſumes our inordinate affections, and delivering us from ſin, ſubjecteth us entirely to the power and direction of <hi>Ieſus Chriſt,</hi> who reignes in us.</p>
+            <p>Whence it followes, that who<g ref="char:EOLhyphen"/>ever is willing to become a true <hi>Chriſtian,</hi> of what condition ſoever he may be in this world, ought to deſire that God may reigne in him; he muſt diſpoſe himſelfe thereunto, and render his ſoule and conſcience worthy to be the Kingdome and habitation of God; And to arrive to this bleſſed condition, he ought to be in the ſtate of love and chari<g ref="char:EOLhyphen"/>ty:
+<pb facs="tcp:179960:7"/>whence we are to inferre, That all the true exerciſes of a Chriſtian muſt tend unto the obtaining of love; and all that he is to doe, all that he is to learne, and the very method which he is to obſerve in order to a good life, conſiſts onely in love and charity. Wherefore it were to be wiſhed, that we would learne no other leſſon in this world, nor imbrace other exerciſe, then that of Love and Charity.</p>
+            <p>And in effect God demands no<g ref="char:EOLhyphen"/>thing of us but love, for he that lo<g ref="char:EOLhyphen"/>veth, fulfills the whole Law of God. And <hi>Jeſus Chriſt</hi> being ready to die, recommends nothing more to his Diſciples, then love: vertue is not acceptable to God, and our whole life hath no merit, without Charity: Finally God gives not his Paradiſe but unto love. Is it not then very true, that the exerciſe and practiſe of love ought to be the ſole enter<g ref="char:EOLhyphen"/>tainment
+<pb facs="tcp:179960:8"/>and whole occupation of a ſoule that intends her Salvation? In as much as it is moſt certaine, that at the houre of death God re<g ref="char:EOLhyphen"/>ſolving to judge us will reſpect no<g ref="char:EOLhyphen"/>thing but love; for he will receive us, if we expire in the ſtate of love, and reejct us, in caſe he finds us deſti<g ref="char:EOLhyphen"/>tute thereof.</p>
+            <p>I pray tell me now, <hi>(you that read what I write)</hi> when you ſhall come to the houre of death, and be in that moment, wherein you are to appeare before the Tribunall of God, to receive the definitive ſen<g ref="char:EOLhyphen"/>tence of your Eternity, if you find your ſelfe void of the love of God, what ſorrow will you not feele for having paſſed away your life in toyes, for having ſet your affection on trifles, and not loved God, who is only amiable, and the true happi<g ref="char:EOLhyphen"/>neſſe of our ſoules?</p>
+            <p>And at this laſt houre, which you
+<pb facs="tcp:179960:8"/>cannot avoid, wherein you ſhall be conſtrained to abandon both this life, and all that is in this world, what anguiſh will you not ſuffer, for having rendred your ſelfe the ſlave of vanity, and unto all inordinate motions of concupiſcence, for ha<g ref="char:EOLhyphen"/>ving violated and deſpiſed all holy, and divine Lawes, to ſatisfie your owne deſires? Finally what diſplea<g ref="char:EOLhyphen"/>ſure will you feele, for having ſhut your heart againſt the love of God, to lodge therein the love of ſo ma<g ref="char:EOLhyphen"/>ny creatures? Surely at the time of your death, you will (as I may ſay) even die for ſorrow, and this griefe will be that worme which ſhall e<g ref="char:EOLhyphen"/>ternally gnaw your ſoule, for ha<g ref="char:EOLhyphen"/>ving ſo much ſtudied to pleaſe the creature, and for having been ſo ſtrongly faſtned thereunto, as to proſtrate your ſelfe to vanity and pleaſures, and for having deſpiſed the love of God, who is your hap<g ref="char:EOLhyphen"/>pineſſe,
+<pb facs="tcp:179960:9"/>and the true delight of your ſoule.</p>
+            <p>But ſuppoſe that you ſhall be ſa<g ref="char:EOLhyphen"/>ved, and that you are in the role of thoſe Elect, whom God intends to place in his Kingdome of glory, where there is no other God, but Love, no law, but that of Love, and where the life and entertainment of the Saints, is but a perfect and eter<g ref="char:EOLhyphen"/>nall Love: Though you be (I ſay) of this number, and if your name be written in the booke of life, yet God will not ſave you without Love and Charity; for you muſt neceſſarily die in Charity, if you will be ſaved. Let us ſuppoſe then that you have Love, at this laſt houre, it will be ſurely a true love of God; If then you can ever Love God with a true love, how much paine will you feele, for not having loved him ſooner. How much more bitterly will you deteſt the world, and all
+<pb facs="tcp:179960:9"/>the creatures which you have loved, and which have diverted you from loving a God, who loveth you ſo much, as to give you his Paradiſe? It is then, yea, it is then, when you will underſtand the love, which God beares you, and that you will love God truly; then will it be that the more light you ſhall receive, and the purer your ſoule ſhall be, the more will you deteſt the world, and deplore your owne ingratitude; and undoubtedly in this point, will conſiſt the ſharpeſt: of your paines, and the moſt inſupportable do<g ref="char:EOLhyphen"/>lours which you ſhall ſuffer in Pur<g ref="char:EOLhyphen"/>gatory,</p>
+            <p>I ſay all this, to recall your ſoule and perſwade you, if you can, to pre<g ref="char:EOLhyphen"/>vent the miſeries of this houre and moment, which you cannot eſcape, and that from this inſtant, prepa<g ref="char:EOLhyphen"/>ring your ſelfe for death, you may begin to ſeek and deſire no other
+<pb facs="tcp:179960:10"/>thing but love. In all your devoti<g ref="char:EOLhyphen"/>ons learne to love God, and take courage to deſpiſe manfully all im<g ref="char:EOLhyphen"/>pediments unto true love.</p>
+            <p>Let all your Entertainments and Devotions be in order to love, and in all your exerciſes of mercy, ſtrive onely to root out of your heart, and remove from your life, all that di<g ref="char:EOLhyphen"/>ſtanceth you from the love of God.</p>
+            <p>For your aſſiſtance herein, I thought fit to preſent unto you ſome few documents, which I con<g ref="char:EOLhyphen"/>ceive very profitable for all ſuch, as have a deſire to live well. I ſtile them <hi>Devout Entertainments,</hi> be<g ref="char:EOLhyphen"/>cauſe indeed the ſoule ought to en<g ref="char:EOLhyphen"/>tertain and buſie her ſelfe onely in love and charity. And I call them <hi>Devout,</hi> in as much as true devotion conſiſts only in this point, of loving God.</p>
+            <p>It is not my intention, to diſcre<g ref="char:EOLhyphen"/>dit other Exerciſes, which are re<g ref="char:EOLhyphen"/>commended
+<pb facs="tcp:179960:10"/>to ſoules, becauſe they are good and profitable, if they di<g ref="char:EOLhyphen"/>rect unto <hi>Love</hi> and <hi>Charity:</hi> But I may well ſay with S. <hi>Paul,</hi> that <hi>all is nothing without Charity.</hi> Wherefore I could wiſh, that a true <hi>Chriſtian</hi> had no other object, or end in all his a<g ref="char:EOLhyphen"/>ctions, then love; that he would ſtudie nothing but love, and ſtrive to correct all his defects, oppoſite to the love of God; for all being well conſidered, whoever hath <hi>Charity,</hi> hath all things. And indeed we ſee ſo many perſons frequent the <hi>divine Sacraments,</hi> we ſee ſo many who ex<g ref="char:EOLhyphen"/>erciſe themſelves in works of piety, and nevertheleſſe little profit and change is obſerved in the life of <hi>Chriſtians.</hi> If reaſons may be given for it, there is no other in my opini<g ref="char:EOLhyphen"/>on, then their defectiveneſſe in lo<g ref="char:EOLhyphen"/>ving God. This is the reaſon why in all this little Treatiſe I ſpeak of no<g ref="char:EOLhyphen"/>thing, but <hi>Love</hi> and <hi>Charity.</hi>
+            </p>
+            <pb facs="tcp:179960:11"/>
+            <p>It is true alſo, that I treat of the <hi>Preſence of God,</hi> and ſhew the pra<g ref="char:EOLhyphen"/>ctice of it; but I have done it in con<g ref="char:EOLhyphen"/>ſideration of love, becauſe I conceive it to be an exerciſe abſolutely ne<g ref="char:EOLhyphen"/>ceſſary, eſpecially for ſuch as live in the world, and deſire to lead a vertuous life, in the midſt of the turmoyles and diſtractions, which are frequent in our ordinary courſe of life. We cannot doubt, but that the moſt part of Chriſtians have their ſpirits ſtill diſtracted, their thoughts wandring, their hearts di<g ref="char:EOLhyphen"/>vided; and if every one will conſi<g ref="char:EOLhyphen"/>der in what manner he liveth, he ſhall perceive that the ſoule is but ſeldome within the body, wholly diſtracted, and as it were evapora<g ref="char:EOLhyphen"/>ted into exteriour things, which is a great misfortune to her. Now it is requiſite to find out a meanes to recall her; ſurely I ſee none better then that of the preſence of God, in
+<pb facs="tcp:179960:11"/>the ſame manner, as I explicate it; Make uſe of it, if you pleaſe, and you ſhall find by experience, that there is nothing more profitable and ad<g ref="char:EOLhyphen"/>vantagious.</p>
+            <p>I recommend it as much as I can poſſibly; for if every one would but conſider at leiſure, the diſpoſi<g ref="char:EOLhyphen"/>tion of his own ſoule, he ſhould diſ<g ref="char:EOLhyphen"/>cerne, that it will be almoſt impoſſi<g ref="char:EOLhyphen"/>ble for him to performe any exer<g ref="char:EOLhyphen"/>ciſe of piety, as one ought, if he place not himſelfe in the preſence of God; for this poſture is abſo<g ref="char:EOLhyphen"/>lutely neceſſary, to recall our ſoule, which is ſtraying, and to render her attentive to what ſhe is doing; and moreover this is neceſſary, in reſpect we cannot performe any good work without the grace of God. And when the ſoule is thus preſented un<g ref="char:EOLhyphen"/>to God, ſhe craves aſſiſtance and grace of him, without which ſhe is unable to act any thing.</p>
+            <pb facs="tcp:179960:12"/>
+            <p>This is what I deſire to offer un<g ref="char:EOLhyphen"/>to you; I beſeech our Lord to af<g ref="char:EOLhyphen"/>fect you with it, and to favour u<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> all with his grace, to prepare ou<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> hearts for him, and to render us wor<g ref="char:EOLhyphen"/>thy of his love.</p>
+            <pb facs="tcp:179960:12"/>
+            <pb facs="tcp:179960:13"/>
+            <p>THeſe, or what other <hi>Erraeta's</hi> the Printer (through his un<g ref="char:EOLhyphen"/>skilfulneſſe in this Language) hath committed, the courteous Reader may pleaſe to pardon, and correct thus.</p>
+         </div>
+         <div type="errata">
+            <head>Errata.</head>
+            <p>Pag. 33. l. 10. read require <hi>you.</hi> p. 107. l. 8. r. into <hi>the</hi> ſtate. p. 111. l. 6, &amp; 7. r. I know <hi>and</hi> you have ſaid it. p. 114. l. 14. r. <hi>expecting.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:179960:13" rendition="simple:additions"/>
+            <head>DEVOUT ENTERTAINMENTS OF A CHRISTIAN SOULE.</head>
+            <div type="section">
+               <head>Of the love of GOD, <hi>The firſt Entertainment.</hi>
+               </head>
+               <div type="part">
+                  <head>§. <hi>1.</hi> Of the Excellency and Neceſsity of Love.</head>
+                  <p n="1">1. THe firſt thing I deſire to propoſe unto you upon this ſubject, and which I would gladly engrave in
+<pb n="2" facs="tcp:179960:14"/>your heart, is the acknowledg<g ref="char:EOLhyphen"/>ing that the reaſonable creature was created by God, for no other end, then to love and ſerve him. This is a verity which I beſeech you often to conſider, and if you can, call it often every day into your thoughts.</p>
+                  <p n="2">2. In order to this principle, remember that you have no right to live on earth, but to love and ſerve God; for all that you have in the world, whereof God hath given you the uſe, he hath put it into your hands, onely to teſtifie his love, and to oblige you to love him: ſo that all things ought to ſerve you, as motives to love him, who hath beſtowed them on you: For as God hath created nothing,
+<pb n="3" facs="tcp:179960:14"/>which doth not raiſe you to the knowledge of him, if you will conſider it: ſo hath he made no<g ref="char:EOLhyphen"/>thing, which doth not attract you unto his love, and faſtens you to him, if you bring no op<g ref="char:EOLhyphen"/>poſition thereunto.</p>
+                  <p n="3">3. You know very well, that we are obliged <hi>to love God above all things, with our whole heart and ſoule, &amp;c.</hi> It is a Comman<g ref="char:EOLhyphen"/>dement which <hi>Jeſus Chriſt</hi> calls <hi>Maximum,</hi> the greateſt, in as much as it compriſeth all the duties of a ſoule towards God; and if you can accompliſh this, you will doubtleſſe fulfill all the reſt. Wherefore eſteeme princi<g ref="char:EOLhyphen"/>pally this Commandment: exa<g ref="char:EOLhyphen"/>mine your ſelfe ſeriouſly upon this point, and omit not to ac<g ref="char:EOLhyphen"/>cuſe
+<pb n="4" facs="tcp:179960:15"/>your ſelfe of it in Confeſſi<g ref="char:EOLhyphen"/>on, whenſoever you faile there<g ref="char:EOLhyphen"/>in.</p>
+                  <p n="4">4. As God doth nothing but to oblige us to love him, ſo he demands nothing of us but love. This moved the <hi>Apoſtle</hi> to ſay, that <hi>the whole law of God is ac<g ref="char:EOLhyphen"/>compliſhed in loving God.</hi> Wher<g ref="char:EOLhyphen"/>fore all your exerciſes ought to tend onely unto love: I meane, that all the practices of piety, all your deſires, all your prayers, and even the uſe of the Sacra<g ref="char:EOLhyphen"/>ments, ought to aime onely at the placing you in the love of God, to eſtabliſh, conſerve, and advance you therein. Finally, you are to act nothing but by love, or for the obtaining the love of God.</p>
+                  <pb n="5" facs="tcp:179960:15"/>
+                  <p n="5">5. Conſider this vertue, as the onely happineſſe of your ſoule: for by charity we adhere unto God, and are united and conjoy<g ref="char:EOLhyphen"/>ned unto him: Nor can you be ignorant, that all the good, and happineſſe of the ſoule, conſiſts onely in her being uni<g ref="char:EOLhyphen"/>ted unto God, and adhering in<g ref="char:EOLhyphen"/>ſeparably to him, becauſe he that adheres unto God, (ſaith the <hi>Apoſtle</hi>) becomes one ſpirit. His meaning is, that Charity in<g ref="char:EOLhyphen"/>veſts us with divine proper<g ref="char:EOLhyphen"/>ties, and makes us little Gods.</p>
+                  <p n="6">6. We ſhould be very unfor<g ref="char:EOLhyphen"/>tunate, if God did not love us: Now he loveth us onely, to the end we ſhould love him, and in loving us, he can give us nothing of greater value then love. For
+<pb n="6" facs="tcp:179960:16"/>it is love onely, which renders is<g ref="char:punc">▪</g> happy: It is love onely which gives us God, and unites us to him: Love onely guides us unto God. Briefly, it is by love one<g ref="char:EOLhyphen"/>ly, that we become acceptable to God; and nothing is agreeable to him, but what is done in love. See then what that ſoule loſeth, which wants this love, and of how little account all exerciſes are without this act of love.</p>
+                  <p n="7">7. All other vertues may be found amongſt the good and bad, but <hi>Charity</hi> only is the cha<g ref="char:EOLhyphen"/>racter and ſtamp of Gods chil<g ref="char:EOLhyphen"/>dren; Finally, ſhe is the <hi>Queen,</hi> which commands all the powers of the ſoule, and every thing o<g ref="char:EOLhyphen"/>beyes her: And to ſpeak it in a word, ſhe is the true vertue; for
+<pb n="7" facs="tcp:179960:16"/>take away <hi>Love,</hi> and <hi>Charity,</hi> all that is tearmed <hi>Vertue,</hi> is ſo but ſuperficially and in appea<g ref="char:EOLhyphen"/>rance.</p>
+                  <p n="8">8. This is enough to affect you with the deſire of acquiring <hi>Charity</hi> and Divine <hi>Love.</hi> But to know how one may obtaine it, and by what meanes we may attaine unto the poſſeſſion of this happineſſe, is the ſubject wherewith I intend to entertain you.</p>
+               </div>
+               <div type="part">
+                  <pb n="8" facs="tcp:179960:17"/>
+                  <head>§. <hi>II.</hi> Of the meanes to attaine unto the love of God.</head>
+                  <p n="1">1. TO acquire Charity which we call Love, we muſt earneſtly de<g ref="char:EOLhyphen"/>mand it of God; beſides, wee ought frequently to deſire it: Finally, we muſt labour ſeriouſ<g ref="char:EOLhyphen"/>ly therein, and act on our part what wee are able. Theſe are three points which I am to ex<g ref="char:EOLhyphen"/>plicate,</p>
+                  <p n="2">2. To affect God with a ſu<g ref="char:EOLhyphen"/>pernaturall Love, is a pure gift of God: Wherefore I adviſe
+<pb n="9" facs="tcp:179960:17"/>you to beg it of him continually. And the firſt thing you are to aske of him, is, that you may love him, as he would have you, conformable to your obliga<g ref="char:EOLhyphen"/>tion.</p>
+                  <p n="3">3. When I ſay continually, I meane that the moſt uſual Pray<g ref="char:EOLhyphen"/>er you are to make, and the grace which you ought to de<g ref="char:EOLhyphen"/>mand ſtill of God, is to have Charity and Love: for if you poſſeſſe this love, you have all, and if you want it, whatſoever elſe you may have, is of no va<g ref="char:EOLhyphen"/>lue, ſaith the <hi>Apoſtle.</hi>
+                  </p>
+                  <p n="4">4. When you heare it ſo often mentioned, that we ought to per<g ref="char:EOLhyphen"/>forme acts of the love of God, let not that produce a beliefe in
+<pb n="10" facs="tcp:179960:18"/>you, that it is in our own power, without grace, to love God with ſuch a love as we owe him: For it is ſo ſublime a thing to love God, as it tranſcends all the po<g ref="char:EOLhyphen"/>wer of Nature. It is requiſite, that God by his grace unite his power unto our whole faculties; to inable us, to forme one ſin<g ref="char:EOLhyphen"/>gle act of the love of God. And indeed there is a neceſſity of <hi>Gods</hi> giving us his grace, &amp; love, for our loving him, becauſe of our ſelves we are unable to doe it, without his aſſiſtance, and we render our ſelves unworthy of it by our ſins.</p>
+                  <p n="5">5. I will not then enjoyn you to make often acts of the love of God; but ſay onely, that you
+<pb n="11" facs="tcp:179960:18"/>muſt often requeſt this love, and diſpoſe your ſelfe to receive it. And above all you are to annihi<g ref="char:EOLhyphen"/>late in your ſoule, as much as you can poſſibly, all that may divert God from giving you this love, or hinder the love of God from raigning in your heart. This is the moſt impor<g ref="char:EOLhyphen"/>tant point; for to implore the love of <hi>God,</hi> and to live quite contrary, is but to mock, and deride him.</p>
+                  <p n="6">6. It is not enough to aske it of God, but you muſt likewiſe deſire it fervently: And ſurely I wiſh, that this deſire may be great in your ſoule, that it may be the powerfulleſt of all your inclinations, and the moſt lively affection which raignes in you:
+<pb n="12" facs="tcp:179960:19"/>For to deſire love is a ſtrong diſpoſition unto love. And truly one can hardly deſire the love of <hi>God,</hi> without a preſent conceſſion of it.</p>
+                  <p n="7">7. Nay, I could wiſh for the benefit of your ſoule, that you had no other deſire, then to love <hi>God,</hi> and pleaſe him in all things, and that every moment you did awaken in your ſelf this deſire of loving <hi>God.</hi> O what great things would he operate in you! Surely your life would be pleaſing, and all things out of <hi>God</hi> indifferent to you. Endea<g ref="char:EOLhyphen"/>vour that your exerciſes of piety and the moſt uſuall occupations of your ſoule, even when you are diſtributing Almes, be with
+<pb n="13" facs="tcp:179960:19"/>an intention to increaſe this de<g ref="char:EOLhyphen"/>ſire, to nouriſh and practice it. I meane that all your employ<g ref="char:EOLhyphen"/>ments, and exerciſes of vertue, ſhould be either fruits of love, or meanes to attaine unto the love of God. Above all in the uſe of the <hi>Sacraments</hi> I wiſh you to retaine this pure intention; for if at any time you are to ſeek the means of acquiring the love of God, it is by receiving the holy <hi>Sacraments,</hi> principally that of <hi>Confeſsion</hi> and <hi>Communion.</hi> Wherefore when you Confeſſe, and Communicate, endeavour that it may be alwayes with this love, and with an intention there<g ref="char:EOLhyphen"/>by to introduce the love of God.</p>
+                  <pb n="14" facs="tcp:179960:20"/>
+                  <p n="8">8. It imports you very much, to have a good and pure intenti<g ref="char:EOLhyphen"/>on in all that you ſhal doe. Now the Intention which I wiſh you alwayes to have, is to act and ſuf<g ref="char:EOLhyphen"/>fer all for the pure love of God; for God ought to be the object and end of your life and actions. There are ſome who regard their proper intereſt, and doe every thing to the end they may merit. I doe not condemne them, but I adviſe not you to proceed in this manner; for it is a mercena<g ref="char:EOLhyphen"/>ry intention: I contrariwiſe con<g ref="char:EOLhyphen"/>jure you to doe nothing, but for the pure love of God. If you doe all for God, God will doe all for you; if you give all unto God, he will give himſelfe entirely un<g ref="char:EOLhyphen"/>to
+<pb n="15" facs="tcp:179960:20"/>you, and that ought to ſuffice you.</p>
+                  <p n="9">9. In few words, I deſire that <hi>Charity</hi> and <hi>Love</hi> may be the object of all your actions, the ſubject of your imployments, &amp; the moſt ordinary exerciſe of your life and piety. Surely if you have a fervent deſire to love God, all this will be eaſie to you, and by the ſame degrees as this deſire ſhall increaſe, by the ſame you will advance in the love of God and Vertue.</p>
+                  <p n="10">10. It is not enough to de<g ref="char:EOLhyphen"/>mand &amp; deſire the love of God, you muſt cooperate alſo in this point. I will recommend onely two things unto you, and in my opinion they will ſuffice.</p>
+                  <pb n="16" facs="tcp:179960:21"/>
+                  <p n="11">11. The firſt is, that you be ve<g ref="char:EOLhyphen"/>ry carefull to keep your conſci<g ref="char:EOLhyphen"/>ence pure and free from ſin, and above all ingrave in your ſoule this diſpoſition, which ought to remaine alwayes in the centre of your heart, to wit, that for no worldly reſpect you offend God, and that neither the goods nor evils of this life procure you to doe any thing againſt the Com<g ref="char:EOLhyphen"/>mandments of God: My mea<g ref="char:EOLhyphen"/>ning is, that neither the love nor feare of men, nor the world or mutuall complacency draw you to offend God, how little ſoever it be.</p>
+                  <p n="12">12. The other point which I would recommend unto you, is, the giving your heart wholly un<g ref="char:EOLhyphen"/>to
+<pb n="17" facs="tcp:179960:21"/>God; for it is created onely for him. By your heart I under<g ref="char:EOLhyphen"/>ſtand your love, and I meane that you beware of fixing your ſelfe unto the Creature by love and affection: And I intend by this Creature, the world, tem<g ref="char:EOLhyphen"/>porall goods, and all earthly things.</p>
+                  <p n="13">13. I know very wel, that you cannot live without love; but that which I recommend unto you, is the remaining in the world, and in the uſe of crea<g ref="char:EOLhyphen"/>tures, without placing your heart and affection on them: But ſince you ought to love God, who is infinitely amiable, and co<g ref="char:cmbAbbrStroke">̄</g>mands you to love him above all things, there is nothing difficult in this,
+<pb n="18" facs="tcp:179960:22"/>which I propoſe to you; for there is nothing ſweeter or more facile then Love, and I only beg of you to prefer God above all creatures: is there any thing more reaſonable?</p>
+                  <p n="14">14. Remember this principle, which is alwayes veritable, that a foule by the ſame degrees ſhe faſtens her ſelfe by love unto the creature, by the ſame doth ſhe looſen and ſeperate her ſelf from God; and as much as ſhe ſever's her ſelf from the creature, ſo much doth ſhe unite her ſelf, and approach unto God. Conſider well this maxime, to reap pro<g ref="char:EOLhyphen"/>fit by it; for if you will love God with your heart, and if the deſire which you have to love
+<pb n="19" facs="tcp:179960:22"/>God, be ſincere, you will be ve<g ref="char:EOLhyphen"/>ry carefull not to adhere unto any creature; which is all I re<g ref="char:EOLhyphen"/>commend unto you.</p>
+                  <p n="15">15. But in this point of the love of God, beware of being like unto the <hi>Jewes</hi> and <hi>Phari<g ref="char:EOLhyphen"/>ſees,</hi> who Faſted, Prayed, gave Almes, and bare on their fore<g ref="char:EOLhyphen"/>heads, the written Law of <hi>Moſes;</hi> and yet their hearts were wholy alienated from God you muſt needs underſtand my meaning without farther explanation.</p>
+                  <p n="19">19. Take heed alſo, that you reſemble not thoſe who ſpeak much, and do little: Fi<g ref="char:EOLhyphen"/>nally, be not like unto the <hi>Sa<g ref="char:EOLhyphen"/>maritans,</hi> who adored <hi>Idols</hi> and the true God in one and t<gap reason="illegible" resp="#UOM" extent="2+ letters">
+                        <desc>••…</desc>
+                     </gap>
+                     <pb n="20" facs="tcp:179960:23"/>ſame <hi>Temple.</hi> To love God and the Creature both together, are things incompatible; for true love is neither partiall nor divi<g ref="char:EOLhyphen"/>ded; but intire, cordiall, and perfect. Still call to mind, that the heart of man is created who<g ref="char:EOLhyphen"/>ly for God, And he ought to love God alone, or if he love any other thing, let it be for? God, and in order to God.</p>
+                  <p n="17">17. I do not doubt, but that you will meet at firſt with ſome difficulties in theſe practices, but do not think, that before the Judgment. of Almighty God, you can be exempt from paine and labour: On the contrary you ought to animate your ſelf; for love and charity, which gives
+<pb n="21" facs="tcp:179960:23"/>us God, and opens Paradiſe to us, deſerves well, that we labour ſeriouſly to acquire it, and that we be very careful to conſerve it, if God vouchſafe to beſtow it on us.</p>
+                  <p n="18">18. To aſſiſt you in the ac<g ref="char:EOLhyphen"/>quiſition of charity, or rather to diſpoſe you to receive it from the hand of God, I conceive it fit for you to practice the three enſuing Acts, which I am going to ſet before you.</p>
+                  <p n="19">19. The firſt is, that you enter into the poor &amp; ſimple thought of that love and charity which <hi>Jeſus Chriſt</hi> hath for you, or elſe conſider, how the Son of God is all love: Then ſtay as little as you pleaſe upon this
+<pb n="22" facs="tcp:179960:24"/>thought, adore in your heart this love of <hi>Jeſus</hi> with an hum<g ref="char:EOLhyphen"/>ble reſpect. After this, you of<g ref="char:EOLhyphen"/>fer your ſelf unto <hi>Chriſt Jeſus,</hi> and give your ſelf intire to Him; open your heart to Him, to the end he may infuſe into it, the ſpirit of love, even as he poſſeſ<g ref="char:EOLhyphen"/>ſeth the plenitude thereof, and according to the intention he hath, that you ſhould love God.</p>
+                  <p n="20">20. The ſecond is, that you renounce cheerfully all that di<g ref="char:EOLhyphen"/>verts you from loving God, and beſeech <hi>Chriſt Jeſuſ</hi> to indue you with a hatred, againſt all that is oppoſite unto this love, or which may ſeparate you from God.</p>
+                  <p n="21">21. The third is, that you
+<pb n="23" facs="tcp:179960:24"/>reſolve to be very circumſpect, to avoide all that hinders you from loving God. Now, no<g ref="char:EOLhyphen"/>thing is a greater obſtacle to it, then mortall ſinne, and the love of Creatures. And to aide you herein, entertain your ſelf ſome<g ref="char:EOLhyphen"/>times in thoughts which may produce love in you: At leaſt, endeavour as much as you may, that no day paſſe away without ſome ſpirituall Lecture, which may incourage you in theſe pra<g ref="char:EOLhyphen"/>ctices of love and charity. You may perform theſe three acts in the form which I am going to preſcribe you.</p>
+                  <p n="22">22. My Lord, and my God! I adore you as the increated love; I give my ſelf unto your
+<pb n="24" facs="tcp:179960:25"/>love, to bear the effects thereof, in what manner you ſhall pleaſe, and I renounce all that is repug<g ref="char:EOLhyphen"/>nant in me to the love which I owe you. Be pleaſed, to gives me only the grace, that I may di<g ref="char:EOLhyphen"/>veſt my ſelf of all that is oppo<g ref="char:EOLhyphen"/>ſite unto your love; and that henceforward, I may accept of nothing which is averſe unto it.</p>
+                  <p n="23">23. I particularly recommend unto you this laſt exerciſe, in as much as the eternall Father beſtows nothing on us, but by his Sonne, eſpecially no Graces and Vertues; And becauſe our works have no other merit before God, then what they receive from <hi>Jeſus Chriſt,</hi> I ſay that in this ex<g ref="char:EOLhyphen"/>erciſe, you ſhould give and offer
+<pb n="25" facs="tcp:179960:25"/>your ſelfe unto <hi>Chriſt Jeſus,</hi> to the end he may beſtow on you what is neceſſary, and ſet on your workes and good intenti<g ref="char:EOLhyphen"/>ons, the price and value which they are to beare in the ſight of God: finally, that you may re<g ref="char:EOLhyphen"/>duce into act the deſire you have of loving God.</p>
+                  <p n="24">24 Moreover when God is pleaſed to confer any grace on us, he would have us to coope<g ref="char:EOLhyphen"/>rate with it; &amp; without this co<g ref="char:EOLhyphen"/>operation his gifts arc fruitleſſe. Now we begin to cooperate, when we give our ſelves unto <hi>Jeſus Chriſt,</hi> to beare the effects of the vertue which we deſire of him, and when we renounce all that is repugnant to it, Theſe are the reaſons which invite mee
+<pb n="26" facs="tcp:179960:26"/>ſo earneſtly to recommend unto you this exerciſe.</p>
+                  <p>Theſe are the few entertain<g ref="char:EOLhyphen"/>ments which I purpoſe to pre<g ref="char:EOLhyphen"/>ſent unto you, concerning the acquiſition &amp; practice of Cha<g ref="char:EOLhyphen"/>rity. Let us treat now of <hi>Prayer.</hi>
+                  </p>
+               </div>
+            </div>
+            <div type="section">
+               <pb n="27" facs="tcp:179960:26"/>
+               <head>OF PRAYER, <hi>AND</hi> Of the Preſence of God. <hi>The ſecond Entertainment.</hi>
+               </head>
+               <div type="part">
+                  <head>§. <hi>I.</hi> Concerning the Excellency of Prayer.</head>
+                  <p n="1">1. WE are all bound to pray; it is the duty of the Soule, it is a leſſon which <hi>Ieſus Chriſt</hi> gave unto his <hi>Apoſtles</hi> and <hi>Diſciples:</hi> it is the practice
+<pb n="28" facs="tcp:179960:27"/>of the <hi>Church,</hi> and the cuſtoms of all <hi>Chriſtians:</hi> And God will have us to be ſenſible o<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> our infirmities and miſeries, and acknowledge our poverty, to the end wee may reſort unto him, and that he may be honou<g ref="char:EOLhyphen"/>red by our prayers.</p>
+                  <p n="2">2. <hi>Prayer</hi> is an entertainment &amp; communication of the ſoule with God, and of God with the ſoule: And in Prayer the ſoule elevates her ſelf unto God and God vouchſafes to deſcen<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> unto the ſoule.</p>
+                  <p n="3">3. <hi>Prayer</hi> well made, is a mir<g ref="char:EOLhyphen"/>rour wherein the ſoule behold her ſelfe, and where ſhee finde what ſhee is; and ſomtimes ſhe learnes thereby to know God and begins to reliſh him.</p>
+                  <pb n="29" facs="tcp:179960:27"/>
+                  <p n="4">4. <hi>Prayer</hi> obtaines all things for us; <hi>Prayer</hi> teacheth all: It is finally the food and aliment of the ſoule and ſo neceſſary, that as without naturall meat the bo<g ref="char:EOLhyphen"/>dy languiſheth, ſo doth the ſoule without <hi>Prayer.</hi>
+                  </p>
+               </div>
+               <div type="part">
+                  <head>§. <hi>II.</hi> Of the Preſence of God in Prayer.</head>
+                  <p n="1">1. I Adviſe you then to ſet your affection upon <hi>Pray<g ref="char:EOLhyphen"/>er.</hi> There are two ſorts there<g ref="char:EOLhyphen"/>of, the one <hi>vocall,</hi> the other <hi>men<g ref="char:EOLhyphen"/>tall:</hi> I will not take from you vocall Prayer, becauſe it is very good, but indeed I counſell you not to charge and oblige your ſelfe unto many vocall Prayers.</p>
+                  <pb n="30" facs="tcp:179960:28"/>
+                  <p n="2">2 Nor will I oblige you un<g ref="char:EOLhyphen"/>to mentall Prayer, for few per<g ref="char:EOLhyphen"/>ſons are capable of entertaining the inſelves with it: Neverthe<g ref="char:EOLhyphen"/>lesse I conceive it uſefull, nay neceſſary for you, to make choice every day of ſome point or verity of faith, to meditate on it as long as you pleaſe.</p>
+                  <p n="3">3 It is an exerciſe which I propoſe to you as neceſſary: for, moſt certaine it is, that every one hath need of recalling his ſpirit; and evidently your mind is the more ſtraying and diſtra<g ref="char:EOLhyphen"/>cted, the more you remaine in the world. Wherefore if you have any care of your ſalvation, you muſt ſtrive to recollect your ſoule, which is ſo much ingaged in exteriour things, as it may be
+<pb n="31" facs="tcp:179960:28"/>ſaid to be ſcarce in your body.</p>
+                  <p n="4">4 Now the true meanes for recalling your ſoule, is to place your ſelfe every day in the pre<g ref="char:EOLhyphen"/>ſence of God, and to remaine ſome time in ſilence, taking ſome good thought for your en<g ref="char:EOLhyphen"/>tertainment.</p>
+                  <p n="5">5 What time you ſhall make choice of, I leave unto your own conveniency; at leaſt I ad<g ref="char:EOLhyphen"/>viſe you to take part of the holy Maſſe for your meditation, and to imploy it in this exerciſe; but do it with affection. As for the ſaying of your Beads, or other vocall Prayers, you may finde time enough. If I may be cre<g ref="char:EOLhyphen"/>dited, you will preferre this lit<g ref="char:EOLhyphen"/>tle recollection before all the reſt; for it is more important
+<pb n="32" facs="tcp:179960:29"/>then it ſeemeth, and experience will teach it you if you pleaſe.</p>
+                  <p n="6">6. What proportion of time you will imploy therein, I leave unto your own zeale and devo<g ref="char:EOLhyphen"/>tion; I beſeech you onely not to faile in taking every day ſome good thought , and ſeri<g ref="char:EOLhyphen"/>ouſly to ſtay upon it, though it be but for ſome ſmall time, and if it be poſſible doe this every morning. Affectionate your ſelfe unto this exerciſe which is briefe, and will prove more fa<g ref="char:EOLhyphen"/>cile then you imagine; howe<g ref="char:EOLhyphen"/>ver it is profitable for you, and I dare ſay in a manner neceſſary.</p>
+                  <p n="7">7. The ſubject which you are to take for your entertain<g ref="char:EOLhyphen"/>ment, ſhall be the <hi>Paſsion</hi> of the Son of God, or the foure finall
+<pb n="33" facs="tcp:179960:29"/>ends of man; ſometimes Gods love towards you , ſometimes the vanity of all things; finally take ſome point of Faith or of the Creed for your appli<g ref="char:EOLhyphen"/>cation.</p>
+                  <p n="8">8. The manner and method which you are to obſerve here<g ref="char:EOLhyphen"/>in muſt be very naturall. I doe not require to make uſe of reaſon or diſcourſe, but of your affection and will. Apply your whole heart unto it, and that ſufficeth, procure alſo that your attention therein bee entire.</p>
+                  <p n="9">9. The firſt thing you muſt doe, is to place your ſelfe in the preſence of God, becauſe in all your prayers you ſpeak with God, and treat of things of
+<pb n="34" facs="tcp:179960:30"/>great conſequence; for you ſpeak to him of the honour and love you owe him, &amp; you treat concerning your owne ſalvati<g ref="char:EOLhyphen"/>on, and the benefits of your ſoule.</p>
+                  <p n="10">10 This exerciſe or practice of the preſence of God is abſo<g ref="char:EOLhyphen"/>lutely neceſſary for you; for if you have a care of your ſalvati<g ref="char:EOLhyphen"/>on, and deſire to live in the feare of God, ſurely you ought to know how to keepe your ſelfe continually in the preſence of God, remembring ſtill, that in what place ſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>eve<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> you are, God ſees and conſiders you, not ex<g ref="char:EOLhyphen"/>ter<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>lly onely, but even into the center of your heart. The preſence of God is an exerciſe which detaines the ſoule, and
+<pb n="35" facs="tcp:179960:30"/>obligeth her to act nothing which may bee unworthy of God.</p>
+                  <p n="11">11. Moreover when you will pray, and what Prayer ſoe<g ref="char:EOLhyphen"/>ver you make, were it but ſay<g ref="char:EOLhyphen"/>ing the <hi>Pater noſter,</hi> or your <hi>Beads,</hi> you ſtill ought to doe it with reſpect and attention; for ſure you cannot performe theſe Devotions as you ought, if your ſpirit be not recollected. Now the means of recollecting your minde, is to place your ſelfe in the preſence of God: Where<g ref="char:EOLhyphen"/>fore I adviſe you to habituate your ſelfe in this exerciſe, I meane, to place and keepe your ſelfe often in the preſence of Almighty God.</p>
+                  <p n="12">12. You will ſay peradven<g ref="char:EOLhyphen"/>ture,
+<pb n="36" facs="tcp:179960:31"/>that you are not able to fix your ſpirit: to which I anſwer, that it is no good ſigne and for this reaſon you ought to pity your ſelf; For how can you hear well the holy <hi>Maſſe,</hi> ſay well your ordinary prayers, uſe the Sacrament of <hi>Penance,</hi> or com<g ref="char:EOLhyphen"/>municate as you ought, if you know not how to ſetle your co<g ref="char:EOLhyphen"/>gitation? ſee you not that this is to be ſick indeed, without diſ<g ref="char:EOLhyphen"/>cerning it? Now the practice of the preſence of God (as I will explicate it to you) is the true &amp; only remedy for your diſeaſe.</p>
+                  <p n="13">13. It is a practice which is common &amp; neceſſary for all good Chriſtians, who are willing to avoid ſin, &amp; preſerve themſelves in grace, or deſire to treat with
+<pb n="37" facs="tcp:179960:31"/>God with that reſpect as becoms them, &amp; this is what I deſire, that in the beginning of your pray<g ref="char:EOLhyphen"/>er, you place your ſelf attentive<g ref="char:EOLhyphen"/>ly in the preſence of God.</p>
+                  <p n="14">14. You may do it in two man<g ref="char:EOLhyphen"/>ners. The firſt by imagination, when you recall your mind and all the powers of your ſoul, and when you repreſent God unto your ſelf with a Majeſty worthy God, and figuring to your ſelfe that you are proſtrated before the Throne of his infinite great<g ref="char:EOLhyphen"/>neſſe, and that you remain there to treat with him about the af<g ref="char:EOLhyphen"/>faires of your ſoule, and what concerneth the ſervice and wor<g ref="char:EOLhyphen"/>ſhip which you owe him.</p>
+                  <p n="15">15. The other manner is by faith, &amp; then you make no uſe of
+<pb n="38" facs="tcp:179960:32"/>your imagination, but having ſweetly called back your ſoule into it ſelfe, you conceive your ſelfe to be before God, whoſe greatneſſe and Majeſtie is infi<g ref="char:EOLhyphen"/>nite and incomprehenſible; that this is the ſame God, whom the <hi>Angells</hi> and <hi>Saints</hi> do ſerve and adore. You conſider how faith teacheth you, that this ſelf ſame God is every where; and he preſides in the bottome and center of your ſoule with the ſame Majeſty, Power and Love, as he doth in Heaven. Reſt ſomtime upon this thought, and if you can, procure to enter in<g ref="char:EOLhyphen"/>to your owne heart, to adore God as you conceive him to be there.</p>
+                  <p n="16">16. This laſt manner of con<g ref="char:EOLhyphen"/>ſidering
+<pb n="39" facs="tcp:179960:32"/>the Preſence of God, ſeems to me more beneficiall then any other, and hath more force to recall our ſpirit, and to bring back our ſoule into her ſelfe: it teacheth us to ſeeke God, not as farre diſtant from us, or in Heaven, but in our ſelves, and in the center of our heart. And for this reaſon I ad<g ref="char:EOLhyphen"/>viſe you, to make often uſe of this exerciſe; for I promiſe that you ſhall derive from it great advantages: And if you ſhall perſevere, you will make a little Paradiſe of your heart, and your ſoule will performe on earth, what the Angells doe in Heaven.</p>
+               </div>
+               <div type="part">
+                  <pb n="40" facs="tcp:179960:33"/>
+                  <head>§. <hi>III.</hi> A manner how to recollect ones ſelfe for mentall Prayer.</head>
+                  <p n="1">1. AT the firſt entrance then into <hi>Prayer,</hi> place your ſelf in the preſence of God conformably to the manner I have newly exhibited to you. And if this thought of Gods preſence poſſeſſeth your ſoule, and retaines you in great atten<g ref="char:EOLhyphen"/>tion, keep your ſelfe therein as long as you can, were it during the whole Maſſe; and omit without ſcruple the reſt of your devotions; for you enter not into the Church, and apply not your ſelfe unto Prayer, but to remaine before God, to adore him with reſpect and humility,
+<pb n="41" facs="tcp:179960:33"/>and to keepe your ſelfe in his preſence as his devout ſervant. When you have attained unto this, reſt content, ſince God ſeems to be ſo with you : And in this caſe, you are to deſire no<g ref="char:EOLhyphen"/>thing more, becauſe you have all when God is ſatisfied.</p>
+                  <p n="2">2. And if this thought of Gods preſence will not ſerve to entertaine you any long time, in that caſe, take preſently ſome verity or myſtery for your me<g ref="char:EOLhyphen"/>ditation: For example, conſider how <hi>Ieſu Chriſt</hi> hath loved you ſo much, as to ſuffer death for you. Then pawſe a while, how little ſoever you pleaſe, to conſi<g ref="char:EOLhyphen"/>der this benefit, ſtrive onely to ponder it with attention. And out of this consideration
+<pb n="42" facs="tcp:179960:34"/>endeavour to extract ſome little affection, or frame ſome confe<g ref="char:EOLhyphen"/>rence with God upon that which you considered. Now to the end it may prove more facile to you, I preſcribe at the end of this Booke ſome Medi<g ref="char:EOLhyphen"/>tations upon the principall points of the Paſſion of our Lord <hi>Ieſus Chriſt,</hi> which will ſerve you for a Modell.</p>
+                  <p n="3">3. During the little time you ſhall employ in this manner of Prayer, if God gives you ſome good inſpiration or pious de<g ref="char:EOLhyphen"/>ſire, do not neglect it, but hear<g ref="char:EOLhyphen"/>ken unto God, and receive his grace and inſpiration with re<g ref="char:EOLhyphen"/>ſpect and love. Reſolve to put in practice what God propoſeth to you, and give your ſelfe unto
+<pb n="43" facs="tcp:179960:34"/>
+                     <hi>Chriſt Ieſus,</hi> and his holy Mo<g ref="char:EOLhyphen"/>ther the <hi>Virgin Mary,</hi> to the end they may be pleaſed to preſerve in your ſoule the good deſires which you feele; and ſupplicate them to give you the grace to put them in practice, conforma<g ref="char:EOLhyphen"/>ble to that manner which God requires of you.</p>
+                  <p n="4">4. The profit which I would have you to make of this exer<g ref="char:EOLhyphen"/>ciſe, which I call <hi>recollection of ſpirit,</hi> is, to eſtabliſh and pre<g ref="char:EOLhyphen"/>ſerve your ſelfe in the feare of God; to excite and advance your ſelfe in his love, and to in<g ref="char:EOLhyphen"/>duce in you a hatred unto the vanity of the world. The vertues which you ought moſt to put in practice, are humility of ſpi<g ref="char:EOLhyphen"/>rit, unadherence unto creaures,
+<pb n="44" facs="tcp:179960:35"/>and the mortification of the cu<g ref="char:EOLhyphen"/>pidities &amp; paſſions of your ſoul.</p>
+                  <p n="5">5. Now what I have diſ<g ref="char:EOLhyphen"/>courſed to you concerning the preſence of God, in that <hi>Prayer</hi> which we cal <hi>Mentall,</hi> you ought to practice in all your <hi>Vocall Prayers;</hi> when you will begin to ſay your Beads, or the office of our bleſſed Lady, or els when you prepare your ſelfe for Con<g ref="char:EOLhyphen"/>feſſion or Communion: Briefly, in all your Devotions let the firſt thing you do, be the recal<g ref="char:EOLhyphen"/>ling of your minde, the with<g ref="char:EOLhyphen"/>drawing it from all ſorts of ob<g ref="char:EOLhyphen"/>jects, and place your ſelfe in the preſence of God, in ſuch a man<g ref="char:EOLhyphen"/>ner as I have propoſed to you.</p>
+                  <p n="6">6. Chiefly when you come before God, be it in the <hi>Church</hi>
+                     <pb n="45" facs="tcp:179960:35"/>or in your <hi>Oratory,</hi> preſent your ſelf alwaies with a comportment full of reſpect, &amp; ſtrive to place your ſelfe in an humble and Chriſtian reverence; for you are in the preſence of God, before whom all the Grandeurs of hea<g ref="char:EOLhyphen"/>ven &amp; earth are but duſt. Princi<g ref="char:EOLhyphen"/>pally I recommend unto you the deteſtation of all petty wanton<g ref="char:EOLhyphen"/>neſſes &amp; levities, and all ſuch ef<g ref="char:EOLhyphen"/>feminate faſhions In a word, a<g ref="char:EOLhyphen"/>void all affectation in the pre<g ref="char:EOLhyphen"/>ſence of God, before whom the Angels tremble, &amp; live only in a profound reſpect and reverence. You may now well judge how much reaſon I have to condemn thoſe complements which are uſed in the Church, thoſe curi<g ref="char:EOLhyphen"/>oſities and vain diſcourſes. God
+<pb n="46" facs="tcp:179960:36"/>preſerve you from ſuch diſor<g ref="char:EOLhyphen"/>ders, which oblige God to withdraw himſelfe from the ſoule.</p>
+                  <p n="7">7. At the end of all your Prayers, and even out of Pray<g ref="char:EOLhyphen"/>ers as often as you may, at the in<g ref="char:EOLhyphen"/>ſtant of your waking in the morning, I wiſh and deſire you to performe two things, which are very facile.</p>
+                  <p n="8">8. The one is to offer your ſelf unto God, and to give your ſelfe to him, to remaine wholly his, in conformity to his holy will: The other is, to renounce your ſelfe, and all that leads you unto evill, or diverts you from doing that good which God re<g ref="char:EOLhyphen"/>quires of you: is for example, you may ſay or mediate on
+<pb n="47" facs="tcp:179960:36"/>theſe words; <hi>My God &amp; my Ieſus, I offer my ſelf unto you as my Lord, on whom I will depend all my life time; and I renounce all that ſe<g ref="char:EOLhyphen"/>vereth me from you, and may di<g ref="char:EOLhyphen"/>vert me from following and ful<g ref="char:EOLhyphen"/>filling your holy will.</hi>
+                  </p>
+                  <p n="9">9 But ſtill remember, that God is not content with words, he will have the heart, and re<g ref="char:EOLhyphen"/>quires effects: Wherefore en<g ref="char:EOLhyphen"/>deavour to put in practice all that I have propoſed to you, in theſe few entertainments, and a<g ref="char:EOLhyphen"/>bove all, exerciſe your ſelfe in the practice of ſuch vertues as God ſhall inſpire you; for he will exact an account of all the graces which he conferres on you, and of all the occaſions which he preſents unto you of doing good.</p>
+               </div>
+            </div>
+            <div type="section">
+               <pb n="48" facs="tcp:179960:37"/>
+               <head>OF CONFESSION, AND COMMUNION. <hi>The third Entertainment.</hi>
+               </head>
+               <div type="part">
+                  <head>§. I.</head>
+                  <p n="1">I. THere remaines one thing to tell you, but it is of conſe<g ref="char:EOLhyphen"/>quence; and I wiſh that I were able to fix it in the bottome and center of your heart. It relates unto <hi>Confeſion</hi> &amp; <hi>Communion.</hi> I
+<pb n="49" facs="tcp:179960:37"/>will entertaine you with it, be<g ref="char:EOLhyphen"/>cauſe I verie much apprehend, that there are great abuſes com<g ref="char:EOLhyphen"/>mitted therein and I feare that in ſo holy and divine a thing we are often too prophane.</p>
+                  <p n="2">2. By the Sacrament of <hi>Con<g ref="char:EOLhyphen"/>feſsion,</hi> it is certaine, that we de<g ref="char:EOLhyphen"/>ſire to return into Gods favour; we ſeek to bee re-eſtabliſhed in the charity which we have loſt by mortall ſinne, and which we cannot repoſſeſſe but by <hi>Pe<g ref="char:EOLhyphen"/>nance.</hi> And though we be free from mortall ſin, we yet deſire by Penance to remove the other ſins, which freeze charity, breed a languiſhing in the ſoule, debi<g ref="char:EOLhyphen"/>litate and expoſe her unto grea<g ref="char:EOLhyphen"/>ter danger. And then wee goe unto <hi>Confeſsion,</hi> to renew our
+<pb n="50" facs="tcp:179960:38"/>ſelves in love, and to remove theſe ſins, and all that may be oppoſite unto love and charity.</p>
+                  <p n="3">3. In the holy <hi>Communion</hi> we receive <hi>Ieſus Chriſt</hi> as ours; for hee appertaines to us, and the ſame <hi>Ieſus</hi> gives himſelfe unto us in this divine and adorable <hi>Sacrament,</hi> to honour us with his preſence, to inrich us with his gifts, and above all to conferre on us his love. In fine, it is a Sacrament all of love; it is a pledge of the love which <hi>Ieſus Chriſt</hi> beareth us, and a commerce of love between <hi>Ie<g ref="char:EOLhyphen"/>ſu Chriſt</hi> and men.</p>
+                  <p n="4">4. Now if you conſider in this order theſe two great Sa<g ref="char:EOLhyphen"/>craments, doth it not ſeeme juſt and reaſonable, that we receive
+<pb n="51" facs="tcp:179960:38"/>them with eſtimation, holily, and with a ſpirit of love, ſince both of them are holy, both of them conferre charity and the love of God upon us; both of them unite us unto God, when we come to them, as we ought, with fitting and congruous diſ<g ref="char:EOLhyphen"/>poſitions.</p>
+                  <p n="5">5. For this reaſon I could wiſh, that when you goe unto <hi>Confeſsion</hi> or <hi>Communion,</hi> it may bee ſtill accompanied with a ſenſe of love, and a ſerious re<g ref="char:EOLhyphen"/>collection of your ſoule. Be<g ref="char:EOLhyphen"/>ware of going to them by cu<g ref="char:EOLhyphen"/>ſtome, and of performing ſo holy and divine actions indiffe<g ref="char:EOLhyphen"/>rently, I meane without a good and fitting diſpoſition, for it would turn to your prejudice.</p>
+                  <pb n="52" facs="tcp:179960:39"/>
+                  <p n="6">6. That which I require of you is to retaine alwayes a pure intention of ſeeking God one<g ref="char:EOLhyphen"/>ly, and demanding nothing but love. Let it be your deſire to forſake thoſe vices and ſinnes, whereof you ſeek to obtaine re<g ref="char:EOLhyphen"/>miſſion by Penance. Bee you ſorrowfull for having commit<g ref="char:EOLhyphen"/>ted, becauſe ſin is diſpleaſing to God, and oppoſite unto him, whom we deſire to love. Finally, I wiſh that all the mo<g ref="char:EOLhyphen"/>tives which you ſhall have in receiving the Sacraments, may bee alwaies with reſpect to the love which God hath to<g ref="char:EOLhyphen"/>wards you, and of the love which you owe unto God; for let men ſay what they pleaſe, ſince in the receiving the Sacra<g ref="char:EOLhyphen"/>ments
+<pb n="53" facs="tcp:179960:39"/>of Penance and of the Euchariſt, you ſeeke nothing but the love of God and chari<g ref="char:EOLhyphen"/>ty, ſurely it is reaſonable, that you go to them with as much love as you can poſſibly: This is that whereunto I invite you.</p>
+                  <p n="7">7. I doe not ſay that feare is not good, uſefull and often ne<g ref="char:EOLhyphen"/>ceſſary but I ſay that feare ought to ſerve here onely for the recalling of your ſoule, and directing her unto love. It ought to be like the ſervant which opens the gate unto charity, to introduce it into your heart. Take then the motives of feare, if you have need of them; but ſtay not upon this feare, but paſſe unto love, ſtill
+<pb n="54" facs="tcp:179960:40"/>calling to minde, that in theſe two Sacraments you ſeeke the friendship of Almighty God: Thus much touching <hi>Penance:</hi> and in the <hi>Euchariſt</hi> you ask and receive God onely, who is love and charity.</p>
+                  <p n="8">8. In the <hi>Communion</hi> it is re<g ref="char:EOLhyphen"/>quiſite to have feare, accompa<g ref="char:EOLhyphen"/>nied with a profound reverence, and humble reſpect. An Ange<g ref="char:EOLhyphen"/>licall devotion and attention is required therein; for this my<g ref="char:EOLhyphen"/>ſtery is full of Majeſty, ſince God is there preſent, whom we intend to receive. But much more love is required therein; for whatſoever wee conſider, there nothing but objects of love appeare to us, and nothing is to be found there, that is not
+<pb n="55" facs="tcp:179960:40"/>as a band, which ought to faſten and unite us unto God.</p>
+                  <p n="9">9 It is not my deſigne to en<g ref="char:EOLhyphen"/>tertaine you with preſcribing you inſtructions for the recepti<g ref="char:EOLhyphen"/>on of theſe two Sacraments, ſince you have ſo many Bookes which treat of it: I will onely ſay, that if ever you ſtand in need, of all the Entertainments which I have newly given you, it ought to be in the recepti<g ref="char:EOLhyphen"/>on of theſe two <hi>Sacraments,</hi> which are two fountaines of love and mercy: For love and recollection by the preſence of God (as I have explicated) ſerve us for a diſpoſition to prepare us to receive worthily the Sa<g ref="char:EOLhyphen"/>crament of <hi>Penance</hi> and the <hi>Euchariſt.</hi>
+                  </p>
+                  <pb n="56" facs="tcp:179960:41"/>
+                  <p>
+                     <hi>I beſeech our</hi> Lord Jeſus Chriſt, <hi>who came into this world, to eſtabliſh therein the Kingdome of charity, and to bring thither the fire of his love, and who died on the Croſſe to draw us unto God, and withdrawn from death, the world and ſin, that he will vouch<g ref="char:EOLhyphen"/>ſafe to give us the grace to feele and he are the effects of his Croſſe; I beſeech him to conſume us in the flames of his love, and to faſten us ſo indiſſolubly unto himſelf, as wee may never more ſever our ſelves from him, but that he would place us rather in a happy inability of offending him, and in a more bleſſed ſervitude, never more to eſtrange and ſeparate our ſelves from him, nor to act any thing but for his fake.</hi> Amen.</p>
+               </div>
+            </div>
+            <div type="section">
+               <pb n="57" facs="tcp:179960:41"/>
+               <head>MEDITATIONS Upon the Principall Myſteries of the Paſsion of JESUS CHRIST.</head>
+               <div type="preface">
+                  <head>PREFACE.</head>
+                  <p>IT is a great happineſſe for a man to be able to entertain himſelfe with God, and to ſpeak to him as often as he deſireth. He may do it by vocall and mentall Prayer, wherein he treats with his God. It is a favour which <hi>Jeſus Chriſt</hi> hath acquired for him; for it is by him (ſaith the <hi>Apoſtle</hi>) that we have ac<g ref="char:EOLhyphen"/>ceſſe
+<pb n="58" facs="tcp:179960:42"/>unto God: I call it a favour, in as much as man having ſevered himſelfe from God by ſinne, and be<g ref="char:EOLhyphen"/>ing expelled out of his preſence and baniſhed from his amiable company, the Sonne of God came into the world to expiate ſinne, and to eſta<g ref="char:EOLhyphen"/>bliſh both in heaven and earth, a new alliance between God and Man.</p>
+                  <p>One of the meanes which <hi>Jeſus Chriſt</hi> himſelfe hath left us to pre<g ref="char:EOLhyphen"/>ſerve our ſelves in this happy alli<g ref="char:EOLhyphen"/>ance, and the way which he hath pointed out to bring us neer unto God is <hi>Prayer:</hi> for by Prayer we enter into ſociety with God, we entertain our ſelves with him, we elevate and unite our ſelves unto him, and treat with him of the in<g ref="char:EOLhyphen"/>effable Grandeurs of his Divinity, of che effects of his incomprehenſi<g ref="char:EOLhyphen"/>ble goodneſſe, of the neceſſities and miſeries of our life; finally, by a holy commerce we ſpeak to God,
+<pb n="59" facs="tcp:179960:42"/>and God vouchſafes to ſpeak to us.</p>
+                  <p>There are an infinity of objects, upon which the ſoule may entertain her ſelfe with God, and forme her meditations; for as God is an in<g ref="char:EOLhyphen"/>exhauſtible ſea of greatneſſe, ſo is he the object of an infinite entertain<g ref="char:EOLhyphen"/>ment unto a <hi>Chriſtian ſoule:</hi> But the moſt reaſonable, moſt profita<g ref="char:EOLhyphen"/>ble, and eaſieſt ſubject, wherein our Spirit may imploy it ſelfe, is the life, and death, the depreſſions, and hu<g ref="char:EOLhyphen"/>miliations, the torments, and ſuffer<g ref="char:EOLhyphen"/>ances of <hi>Jeſus Chriſt.</hi>
+                  </p>
+                  <p>For as much as in the miſteries of the Paſſion, and in all the moments of the life and death of <hi>Ieſus,</hi> the ſoule diſcerns therein the exceſſive love which God beareth us: In the ſufferings and ignominies of the <hi>Croſſe,</hi> ſhe conceives the weight of ſinne, and the puniſhments which our crimes doe merit: And conſi<g ref="char:EOLhyphen"/>dering what <hi>Ieſus Chriſt</hi> hath done,
+<pb n="60" facs="tcp:179960:43"/>what he hath ſaid, and his holy and adorable Vertues in all the miſteries of his death, ſhe learns thereby the Vertues which ſhe ought to prac<g ref="char:EOLhyphen"/>tice, and the way which ſhe is to follow, to attaine unto the glory which <hi>Ieſus Chriſt</hi> himſelf hath ac<g ref="char:EOLhyphen"/>quired for her, at the price of life and precious bloud.</p>
+                  <p>It is for this reaſon, <hi>devout Rea<g ref="char:EOLhyphen"/>der,</hi> that having undertaken to pre<g ref="char:EOLhyphen"/>ſent you with <hi>Entertainments</hi> con<g ref="char:EOLhyphen"/>formable to the common life of all <hi>Chriſtians,</hi> I have added the <hi>Medi<g ref="char:EOLhyphen"/>tations</hi> upon the principall miſteries of the death of the Sonne of God, to the end you may make uſe of them for your advancement in the love and feare of God, and that by often conſidering them, you may learne to imitate his Vertues, and place your glory and affiance in the death of <hi>Christ Ieſus.</hi> Would to God you could ſay with <hi>S. Paul, I
+<pb n="61" facs="tcp:179960:43"/>will no longer glory, but in the Croſſe of my Ieſus,</hi> I will place my content and love therein; I will follow him in the Croſſe, that I may poſſeſſe him in glory. This is that which I deſire of you with my whole heart; and I wiſh that the death of the Sonne of God, may be the Spirit and life of your ſoule.</p>
+               </div>
+            </div>
+            <div type="section">
+               <pb n="62" facs="tcp:179960:44"/>
+               <head>The Prayer of IESUS in the Garden.</head>
+               <div type="part">
+                  <head>Point I.</head>
+                  <p>COnſider the love which God the Father beareth you, de<g ref="char:EOLhyphen"/>priv<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ng his Sonne of joy and glo<g ref="char:EOLhyphen"/>ry, to inveſt him with ſorrow, and load him with paines and reproa<g ref="char:EOLhyphen"/>ches, expoſing him unto the rigors of tin divine Iuſtice for the expi<g ref="char:EOLhyphen"/>ation of your offences. Deſire ar<g ref="char:EOLhyphen"/>dently, that this ſelfe ſame ſpirit of love may diveſt you of all va<g ref="char:EOLhyphen"/>nity, ſelfe-love, and your own pri<g ref="char:EOLhyphen"/>vate intereſt.</p>
+                  <div type="prayer">
+                     <pb n="63" facs="tcp:179960:44"/>
+                     <head>A Prayer to the eternall Father.</head>
+                     <p>I Adore your goodneſſe, O <hi>e<g ref="char:EOLhyphen"/>ternall Father,</hi> and the love which invited you to give me your Sonne, to ſet him in the opprobriouſneſſe of the <hi>Croſſe,</hi> and to victimate him in the ſuf<g ref="char:EOLhyphen"/>ferances of an ignominious death, that he might be my <hi>Sa<g ref="char:EOLhyphen"/>viour,</hi> and my <hi>Jeſus.</hi> The love which you beare me hath beene the cauſe that you have not ſpa<g ref="char:EOLhyphen"/>red your own Sonne, but have cloathed him with our infir<g ref="char:EOLhyphen"/>mities, and loaden him with the confuſion and paines which I have merited to undergoe for my offences. After ſo great a benefit, is it not juſt for mee to
+<pb n="64" facs="tcp:179960:45"/>love you? How happy ſhould I be <hi>(O God of mercy)</hi> if you would fill my heart with this love! how happy ſhould I be, if you would conſume mee in the flames of this divine fire! It is all that I deſire, and a grace which I aske of you above all the graces which you can give me. Grant then, <hi>O God of good<g ref="char:EOLhyphen"/>neſſe,</hi> that I unloofe my ſelfe from all other love, to love you alone; grant that the power of your love may ſtrip mee of all vanity, and annihilate my ſelfe-love; to the end, loving no<g ref="char:EOLhyphen"/>thing but you, I may live onely for you.</p>
+                  </div>
+               </div>
+               <div type="part">
+                  <pb n="65" facs="tcp:179960:45"/>
+                  <head>Point II.</head>
+                  <p>BEhold how the Sonne of God lies proſtrated on the ground, bearing the weight and confuſion of the ſins of the whole world, and in this ſort he is made the object of the anger of God. You have your part therein by reaſon of your ſins, beg then of him the engraving in your ſoule, a deſire and ability to ſatisfie for your offences, and the granting you a true contrition for your ſinnes.</p>
+                  <div type="prayer">
+                     <head>PRAYER.</head>
+                     <p>ALas what ſhall I doe! for if my <hi>Ieſus,</hi> who is the Power of Heaven, if my <hi>Ieſus,</hi>
+                        <pb n="66" facs="tcp:179960:46"/>who is the vertue of God, falls and remaines under the weight of my offences, what will be<g ref="char:EOLhyphen"/>come of me? and how ſhall I beare them, when dying I ſhall be preſented before the Tribu<g ref="char:EOLhyphen"/>nall of the juſtice of a God, whom I have ſo often irri<g ref="char:EOLhyphen"/>tated? What ſhall I doe (O God of mercy) but endeavour to prevent the day of your Juſtice, and from henceforth begin to ſatisfie by a holy Pe<g ref="char:EOLhyphen"/>nance, for all the ſinnes which I have committed, ungratefull, and mſerable wretch that I am! I heartily deſire it, but am unable to effect it without your grace: Aſſiſt me then (O God of love and goodneſſe) beſtow on me a true contrition for my offences;
+<pb n="67" facs="tcp:179960:46"/>Breake my heart with griefe, melt my heart in your love, li<g ref="char:EOLhyphen"/>quifie my ſoule in Charitie, fill my will with a hatred of ſinne, and grant me the grace never more to offend you. It is what I deſire with my whole heart, to the end I may give my ſelfe en<g ref="char:EOLhyphen"/>tirely to you, and renounce my ſelfe and all creatures, which ſe<g ref="char:EOLhyphen"/>ver me from you.</p>
+                  </div>
+               </div>
+               <div type="part">
+                  <head>Point III.</head>
+                  <p>BEhold in this myſtery the love of <hi>Jeſus,</hi> who exerci<g ref="char:EOLhyphen"/>ſeth the power and rigours of it upon his own perſon: this love a<g ref="char:EOLhyphen"/>baſeth him even unto our ſorrowes, and oppreſſeth him with paines and attriſtations ſo violently, as he enters into an agonie, even to
+<pb n="68" facs="tcp:179960:47"/>ſweat blood in ahundance; he ſuf<g ref="char:EOLhyphen"/>fers all this, to inveſt you with his vertue, and cleanſe you with his Bloud. This love is what you ought to ask often of him, and with great humility.</p>
+                  <div type="prayer">
+                     <head>PRAYER.</head>
+                     <p>CAn it poſſibly be, O my <hi>Ieſus,</hi> that you ſhould love me even to ſuch a degree, as I conſider you in this miſterie, and I not love you? Can I be ſo in<g ref="char:EOLhyphen"/>ſenſible as to ſee you lan<g ref="char:EOLhyphen"/>guiſhing and ſuffering for my ſinnes, and not abandon them? Alas my Saviour, can I in<g ref="char:EOLhyphen"/>dure to ſee you bathed in your owne bloud, and cove<g ref="char:EOLhyphen"/>red over with ſo painefull a
+<pb n="69" facs="tcp:179960:47"/>ſweat, by the horrour which you conceive of my offences? Can I have the heart to behold you in the rigours which the Juſtice of your Father exerciſeth on you for my ſinnes; and that conſidering you in ſo pitifull a ſtate, I ſhould not conceive a horrour of my pravitie, and a deteſtation of my offences? No, no, <hi>Lord,</hi> I will hate my ſelfe to love you, I will deteſt all vice for your ſake, and never more will I offend you: and for a marke of my deſire, I give you my heart, I offer you my ſoule, I dedicate to you my life, and renounce all that is diſpleaſing to you to the end I may no lon<g ref="char:EOLhyphen"/>ger offend you, but live in all things conformable to your ho<g ref="char:EOLhyphen"/>ly
+<pb n="70" facs="tcp:179960:48"/>will. This is the intention and deſire of my ſoule, but it will be fruitleſſe if you ſtretch not out your arme, and give me not your grace to accompliſh them. This is what I begge of you, proſtrated in your preſence, humbly imploring your divine Mercy.</p>
+                  </div>
+               </div>
+            </div>
+            <div type="section">
+               <pb n="71" facs="tcp:179960:48"/>
+               <head>The taking of IESUS in the Garden.</head>
+               <div type="part">
+                  <head>Point I.</head>
+                  <p>JESUS ſuffereth himſelfe to be taken, and deprives himſelf of his power, who was able to an<g ref="char:EOLhyphen"/>nihilate his enemies, to the end that being made captive for us, hee might have right to place us in the freedome of grace. In imita<g ref="char:EOLhyphen"/>tion of <hi>Jeſus,</hi> who ſuffered him<g ref="char:EOLhyphen"/>ſelfe to be made a captive for you, reſolve never to make uſe of your owne power, when there ſhall be a<g ref="char:EOLhyphen"/>ny occaſion of ſuffering for the glory of God.</p>
+                  <div type="prayer">
+                     <pb n="72" facs="tcp:179960:49"/>
+                     <head>PRAYER.</head>
+                     <p>I Do not doubt <hi>(my Saviour)</hi> of your power, but I admire your love, which triumpheth o<g ref="char:EOLhyphen"/>ver you, and worketh ſo great a miracle on your ſelfe; for love captivates your ſtrength, re<g ref="char:EOLhyphen"/>ſtraines your power, and redu<g ref="char:EOLhyphen"/>ceth you into a ſtate of impo<g ref="char:EOLhyphen"/>tency and weakneſſe, to the end you may be capable of ſuffering for mee, poore and wretched creature that I am. Who will not be raviſhed in the thought of this love? And who will not remaine aſtoniſhed that God ſuffers for man, the juſt for the ſinner. And thus you doe, be<g ref="char:EOLhyphen"/>nigne <hi>Ieſus,</hi> in this miſtery
+<pb n="73" facs="tcp:179960:49"/>which I contemplate. Now for this love, which you expreſſe towards me, and which renders you captive, to ſet me at liber<g ref="char:EOLhyphen"/>ty, what elſe can I doe, but caſt my ſelfe with heart and ſpirit at your feet, and become an hum<g ref="char:EOLhyphen"/>ble ſuitor that your love may render mee his captive; that it may triumph over my heart, to the end being denuded of all things, I may become for ever the ſlave of your love. Grant that it may be ſo, my <hi>Ieſus,</hi> ſince it is both my duty and deſire.</p>
+                  </div>
+               </div>
+               <div type="part">
+                  <head>Point II.</head>
+                  <p>JESUS perſeveres in the hu<g ref="char:EOLhyphen"/>miliations and ſufferances of his captivity, remaining in the
+<pb n="74" facs="tcp:179960:50"/>midſt of executioners in ſilence, without plaints, without ſtrength or power. In imitation of him affect ſuch things as humble you, and adminiſter occaſion of ſuffe<g ref="char:EOLhyphen"/>rance, and propoſe to your ſelfe never to reject them.</p>
+                  <div type="prayer">
+                     <head>PRAYER.</head>
+                     <p>SInce I ſee you (O ſweet <hi>Je<g ref="char:EOLhyphen"/>ſus</hi>) in the midſt of executi<g ref="char:EOLhyphen"/>oners, expoſed unto their ma<g ref="char:EOLhyphen"/>lice, and that in this myſterie you abandon your ſelfe unto all ſorts of confuſions, and to the falſe accuſations of ſinners, ap<g ref="char:EOLhyphen"/>pearing as criminall in the midſt of theſe miſcreants: what leſſe can I doe, Lord, then annihilate my ſelfe in your preſence, and
+<pb n="75" facs="tcp:179960:50"/>humble my ſelfe in imitation of you in the view of all creatures. And if in the various ſtates of your life you embraced humili<g ref="char:EOLhyphen"/>ty onely, and made choice of nothing but confuſions, if you who are alone worthy of ho<g ref="char:EOLhyphen"/>nour and reſpect, deſpiſed the Grandeurs of the earth, and the vaine contentments of this world, to live and die onely in depreſſions and ſufferances. Fi<g ref="char:EOLhyphen"/>nally, if you (O benigne <hi>Ieſus</hi>) who are the onely Son of God, were pleaſed to become an ob<g ref="char:EOLhyphen"/>ject of ſcorne and contempt of men; alas what do I, miſerable wretch, deſerve to be, and what rank ſhall I hold in the world, I who am a ſinner, criminall and unworthy of all things? Surely
+<pb n="76" facs="tcp:179960:51"/>(my ſweet <hi>Ieſus</hi>) I heartily con<g ref="char:EOLhyphen"/>demne my pride, and doe pro<g ref="char:EOLhyphen"/>teſt that with my whole affecti<g ref="char:EOLhyphen"/>on aſſiſted by your holy grace, which I implore, I reſolve from henceforth to affect lowlineſſe, and indure for your ſake, all the humiliations, and Croſſes of this life: And why ſhall I refuſe humbly to ſuffer them for your ſake, ſince you have indured them ſo holily for mine. I offer my ſelfe then unto you for that effect, and I abandon my ſelfe with my whole heart unto your divine conduct; grant only that I may be ſuch as you require me to be.</p>
+                  </div>
+               </div>
+               <div type="part">
+                  <pb n="77" facs="tcp:179960:51"/>
+                  <head>Point III</head>
+                  <p>ACknowledge the ſtrange a<g ref="char:EOLhyphen"/>baſement of <hi>Jeſus,</hi> who permits men to binde and lead him captive, and to touch him with their prophane hands, who is the <hi>Holy of Holies:</hi> Hee offers his ſacred mouth to receive the kiſſe of <hi>Judas</hi> his greateſt enemy. Offer your ſelfe unto him, to beare all the contradictions of men, and the con<g ref="char:EOLhyphen"/>tempt of all creatures, and de<g ref="char:EOLhyphen"/>mand of him even love for your enemies, if you have any.</p>
+                  <div type="prayer">
+                     <pb n="78" facs="tcp:179960:52"/>
+                     <head>PRAYER.</head>
+                     <p>YOur life and the divers my<g ref="char:EOLhyphen"/>ſteries of your paſſion, your labours and ſufferances, O my Saviour, give me a leſſon, and teach me what I am to doe; but how ſhall I doe it, and how can I imitate you, if you lend me not your hand, if you prevent and affiſt me not with your grace? For my perverted heart, and my proud nature oppoſe themſelves wholly to you, and conteſt againſt all that you pro<g ref="char:EOLhyphen"/>poſe unto me. I ſee, <hi>my Lord,</hi> I ſee how you offer your ſacred mouth to receive of <hi>Judas</hi> the kiſſe of Treaſon; how you pre<g ref="char:EOLhyphen"/>ſent your hands, and abandon
+<pb n="79" facs="tcp:179960:52"/>your adorable body to the rage of Devills, and to the malice of men and ſinners, to diſpoſe of you and your life in whatſo<g ref="char:EOLhyphen"/>ever cruelty could ſuggeſt unto them. Alas! who is able (O my ſweet <hi>Ieſus</hi>) to imitate you? I fervently deſire it, but ac<g ref="char:EOLhyphen"/>knowledge my owne impoten<g ref="char:EOLhyphen"/>cy; for I feele contradiction in my ſelfe, and tremble at this thought: However leave me not (<hi>O Saviour of my ſoule</hi>) in caſe I am not able to imitate you in all things, at leaſt let me doe it in what I may, and I can doe much if you give me your grace. Open then my eyes, that I may diſcerne what I am, change my heart, that it may affect what you love, and animate my ſpi<g ref="char:EOLhyphen"/>rit
+<pb n="80" facs="tcp:179960:53"/>humbly to indure all con<g ref="char:EOLhyphen"/>tempts and confuſions. All that I am now able to doe in the pre<g ref="char:EOLhyphen"/>ſence of your Soveraigne Ma<g ref="char:EOLhyphen"/>jeſty, is to accuſe my malice, to condemne my pride, and to of<g ref="char:EOLhyphen"/>fer unto you my will, my heart and ſoule, to order them as you pleaſe. Succour my infirmity, fortifie my weakneſſe, breake my obſtinacy, and by the fire of your love, be pleaſed to con<g ref="char:EOLhyphen"/>ſume all my iniquity.</p>
+                  </div>
+               </div>
+            </div>
+            <div type="section">
+               <pb n="81" facs="tcp:179960:53"/>
+               <head>IESUS is faſtned, and ſcourged at the Pillar.</head>
+               <div type="part">
+                  <head>Point I.</head>
+                  <p>SHead you not tears of love and compaſſion, beholding <hi>Jeſus</hi> the Beauty of Heaven, and the Glory of Paradiſe, expoſed to the cruelty of barbarous men, faſtned all naked to a Pillar, to make you a bath of his bloud, and to cleanſe the ſtaines of your ſoule? Give him thanks, and render him teares of love &amp; contrition, for the bloud which he hath given you in this myſtery.</p>
+                  <div type="prayer">
+                     <pb n="82" facs="tcp:179960:54"/>
+                     <head>PRAYER.</head>
+                     <p>MY <hi>Ieſus,</hi> Grant that my heart may break with griefe, and my ſoule diſſolve in your love; for you oblige me to it by your benefits. And to ſay truly, who can chooſe but love you, ſeeing that by the ex<g ref="char:EOLhyphen"/>ceſſe of the love which you beare us, you have expos'd your ſelfe to the rage of Devills, and to the malice of ſinners? And why ſhall I not break my heart aſunder with ſorrow and con<g ref="char:EOLhyphen"/>trition, ſince by my offences I am the occaſion of the pains which you ſuffer? How farre more juſt were it <hi>(O Saviour of the world)</hi> that you ſhould remaine
+<pb n="83" facs="tcp:179960:54"/>in your Glory, in the Throne of your greatneſſe, and that I (who have rendred my ſelfe the ſlave of ſinne, and of my paſſions) ſhould be faſtned to this Pillar, and torn with the ſcourges of your juſtice! But ſince your love is content to make paiment for mee, grant that I may love you as I ought, and no longer offend you. This is my inten<g ref="char:EOLhyphen"/>tion I deſire it with my whole heart, and I beg it of you with an entire affection.</p>
+                  </div>
+               </div>
+               <div type="part">
+                  <head>Point II.</head>
+                  <p>
+                     <hi>CHriſt Jeſus</hi> upon the Pillar, put on the condition of a ſlave and criminall, to beare the ef<g ref="char:EOLhyphen"/>fects of the rage of Devills and
+<pb n="84" facs="tcp:179960:55"/>men. He remaines there, in the midſt of them, like a Lamb victi<g ref="char:EOLhyphen"/>mated and abandoned of his <hi>Fa<g ref="char:EOLhyphen"/>ther,</hi> deſerted by his <hi>Apoſtles,</hi> and afflicted by all creatures. Com<g ref="char:EOLhyphen"/>paſſionate this ſtate of <hi>Jeſus,</hi> and beg of him, that from henceforth you may remaine abandoned, and reſigned unto all that he ſhall or<g ref="char:EOLhyphen"/>daine.</p>
+                  <div type="prayer">
+                     <head>PRAYER.</head>
+                     <p>A Las! my <hi>Jeſus,</hi> I have made the debt, and you have paid it, it is I, it is I who am guilty, and you are puniſhed; it is I, unhappy that I am; who have irritated Heaven, and rendred my ſelfe unworthy of all your favours. I both know
+<pb n="85" facs="tcp:179960:55"/>and confeſſe, that I deſerve no<g ref="char:EOLhyphen"/>thing but hell, and for my ſins to be ſacrificed unto the divine Juſtice which I have ſo often contemned: but your goodneſſe which ſeekes nothing but my Salvation, by a prodigy of love, makes an admirable exchange: For you enter <hi>(O Saviour of my Soul)</hi> into my condition, and loading your ſelfe with my of<g ref="char:EOLhyphen"/>fences, you are now victimated like an innocent Lambe, and left to the Juſtice of God, abando<g ref="char:EOLhyphen"/>ned on all ſides, and plunged in<g ref="char:EOLhyphen"/>to to all ſorts of ſufferances. What leſſe can I doe (O my <hi>Ieſus</hi>) in recognition of this love, then adore your goodneſſe, and a<g ref="char:EOLhyphen"/>bandon my ſelfe entirely to you, to be what you pleaſe.
+<pb n="86" facs="tcp:179960:56"/>I give my ſelfe then unto this myſtery, and offer my ſelfe unto you to beare the effects thereof in ſuch a manner as you deſire.</p>
+                  </div>
+               </div>
+               <div type="part">
+                  <head>Point III.</head>
+                  <p>THe Body of <hi>Jeſus</hi> is covered all over with wounds from the very head to the feet, and ex<g ref="char:EOLhyphen"/>hauſted of bloud and ſtrength. Conſider that the wounds &amp; drops of bloud you ſee on it, are as ſo many tongues which enunciate to you his love, and teach you how you ought to love him in humiliations and ſufferances. Offer unto him your life, your body and bloud, ne<g ref="char:EOLhyphen"/>ver to imploy them, but for his glory.</p>
+                  <div type="prayer">
+                     <pb n="87" facs="tcp:179960:56"/>
+                     <head>PRAYER.</head>
+                     <p>I Am yours, O good <hi>Ieſus:</hi> my ſoule, my life, my body and bloud are no longer mine, but yours: in reſpect that for my ſake you make a profuſion of your owne bloud, you abandon your body unto wounds and ſufferances, your ſoule and life you give to me upon the Croſſe: After all theſe graces and fa<g ref="char:EOLhyphen"/>vours ſhall I not be yours? No, no, <hi>Lord,</hi> all theſe drops of bloud which you ſhed, and all the wounds of your body, are ſo many tongues which condemne my ingratitude, and invite me to your love. I am willing to love, and from this very inſtant
+<pb n="88" facs="tcp:179960:57"/>and for ever I deſire to be whol<g ref="char:EOLhyphen"/>ly yours, and reſolve to love nothing but you alone. Bruiſe, bend, breake and oppreſſe my ſoule, if you pleaſe, combat my life with a thouſand afflicti<g ref="char:EOLhyphen"/>ons, make me ſuffer as long as you pleaſe, yet will I never ut<g ref="char:EOLhyphen"/>ter any other words, then that <hi>I am yours,</hi> and that I love you a<g ref="char:EOLhyphen"/>lone.</p>
+                  </div>
+               </div>
+            </div>
+            <div type="section">
+               <pb n="89" facs="tcp:179960:57"/>
+               <head>IESUS is crowned with Thornes.</head>
+               <div type="part">
+                  <head>Point I.</head>
+                  <p> THe love which <hi>Jeſus</hi> beares us, exerciſeth on him the power and rigours thereof: love placeth him amongſt thornes, and even death it ſelfe: love expo<g ref="char:EOLhyphen"/>ſeth him unto mockeries, ſpittings, buffets, and the contempt of his e<g ref="char:EOLhyphen"/>nemies. Conſider all this, and beg of <hi>Jeſus,</hi> that the ſelfe-ſame love may exerciſe on you the power thereof. Offer your ſelfe unto all the effects which he ſhall vouch<g ref="char:EOLhyphen"/>ſafe to produce in your ſoule, bee
+<pb n="90" facs="tcp:179960:58"/>it in the thornes of Penance, or in the death of your vices and earthly affections.</p>
+                  <div type="prayer">
+                     <head>PRAYER.</head>
+                     <p>O How happy ſhould I be, if your love would once take Empire over my heart! Let not the fault be mine; for I de<g ref="char:EOLhyphen"/>ſire it, I ſeeke it, and offer my ſelfe wholly to you to beare the effects thereof. Grant then, Lord, grant ſpeedily, that the power of your love may deeply wound my ſoule. In loving you nothing will be difficult, for me, in this world; for if love hath cloathed you (O good <hi>Ie<g ref="char:EOLhyphen"/>ſus</hi>) with our miſeries, and loa<g ref="char:EOLhyphen"/>den you with our ſinnes; if love
+<pb n="91" facs="tcp:179960:58"/>hath faſtned you on the Croſſe, what will it not worke on me, if it raigne there and exerciſe his power? Then would it be that I ſhould truly die unto my ſelfe, to live in you, that I ſhould deſpiſe all things to love you alone, and that ſtimulated by this love, I ſhould ſatisfie for my paſt crimes never more to com<g ref="char:EOLhyphen"/>mit the like. But when will that bleſſed houre arrive, that I ſhall love nothing but you? It is high time, and I implore it of you; Be pleaſed then not to deny me this grace, (my good <hi>Ieſus</hi>) ſince you refuſe me not your owne life: deprive me of all things if you pleaſe, pro<g ref="char:EOLhyphen"/>vided that I love you.</p>
+                  </div>
+               </div>
+               <div type="part">
+                  <pb n="92" facs="tcp:179960:59"/>
+                  <head>Point II.</head>
+                  <p>IN this myſtery <hi>Jeſus</hi> covers his greatneſſe, and veiles his Majeſty, in contempts and mocke<g ref="char:EOLhyphen"/>ries; and by a miracle of love, he renders himſelfe capable of ſuffer<g ref="char:EOLhyphen"/>ing the ſharpeſt points of thornes, filthy and unclean ſpittings; blowes and buffets, which bruiſe his body and face; and by this holy artifice, which love hath contrived, he tri<g ref="char:EOLhyphen"/>umpheth over the Devill and ſin. Open your heart unto this <hi>Jeſus,</hi> that he may place there the throne of his love, and triumph over your malice , and all the impure love which may reſide in you.</p>
+                  <div type="prayer">
+                     <pb n="93" facs="tcp:179960:59"/>
+                     <head>PRAYER.</head>
+                     <p>CAn I poſſibly behold you my <hi>Ieſus</hi>) covered with ſpittings, bruiſed with blowes, crowned with thornes, and your body pierced with all ſorts of do<g ref="char:EOLhyphen"/>lors, and not diſſolve into teares, but remaine inſenſible at the ſight of ſo ſad a ſpectacle! Per<g ref="char:EOLhyphen"/>mit it not, <hi>O God of love,</hi> rather pierce my heart with griefe, and give me the grace to have a ſenſe of what you ſuffer for me. Grant me this favour, that I may beare the effects thereof; for it is not juſt that your ſacred body ſhould be immerſed in ſorrow, and your adorable head crowned with thorns, whileſt
+<pb n="94" facs="tcp:179960:60"/>I bathe my ſelfe in pleaſures, or crowne my ſelfe with Roſes, li<g ref="char:EOLhyphen"/>ving alwayes amongſt delights: I rather wiſh, and would gladly implore, if I had love enough, that I might no longer affect a<g ref="char:EOLhyphen"/>ny creature, and that nothing might afford me contentment, but that I might finde worme<g ref="char:EOLhyphen"/>wood every where, and every thing prove diſtaſtfull to me, to the end I may take no delight, but in you alone. This is what I aſpire to, but I have not force enough to practice it, nor ſuffi<g ref="char:EOLhyphen"/>cient love to aske it. There re<g ref="char:EOLhyphen"/>maines one onely deſire on my part, that I may give my ſelfe entirely to you, to ſuffer what<g ref="char:EOLhyphen"/>ſoever ſhall ſuit with your good pleaſure.</p>
+                  </div>
+               </div>
+               <div type="part">
+                  <pb n="95" facs="tcp:179960:60"/>
+                  <head>Point III.</head>
+                  <p>
+                     <hi>JESUS</hi> in his Paſſion pra<g ref="char:EOLhyphen"/>cticeth all ſorts of vertues, to merit them for us, by the actuall exerciſe of them, to leave them unto us by way of teſtament, and to bring them into eſteeme with the world, which contemns and rejects humility, patience, poverty, and all ſufferances. Addreſſe your ſelfe unto <hi>Jeſus Chriſt,</hi> to deſire of him the love of his vertues, and the grace to bee able to practice them in ſuch a degree as hee re<g ref="char:EOLhyphen"/>quires of you.</p>
+                  <div type="prayer">
+                     <pb n="96" facs="tcp:179960:61"/>
+                     <head>PRAYER.</head>
+                     <p>YOu have promiſed me <hi>(O my God)</hi> by your <hi>Prophet,</hi> to engrave your love in the midſt of my heart, and to im<g ref="char:EOLhyphen"/>print it in the center of my ſoule: I ſummon you in order to your promiſe, for I offer unto you my heart opened, and commit into your hands my ſoule and ſpi<g ref="char:EOLhyphen"/>rit, to receive of you the motions of grace, and the impreſſions of your law: But what is this law which you give me, but the i<g ref="char:EOLhyphen"/>mitation of your life, and of the vertues which you have been pleaſed to practiſe on earth? For you had no need , <hi>my Lord,</hi> of this great poverty which I
+<pb n="97" facs="tcp:179960:61"/>diſcern in your birth, of the pa<g ref="char:EOLhyphen"/>tience which you ſhew in your torments, of the obedience which ſets you on the Croſſe, of meekneſſe in the midſt of your enemies, nor of the humi<g ref="char:EOLhyphen"/>lity and contempt of the world which is manifeſted in all your life: But you have ſubjected your ſelfe unto all this, not on<g ref="char:EOLhyphen"/>ly for my ſalvation, but alſo to teach me both by words and actions, the vertues which you affect, the way which I am to follow to obtain ſalvation, and the life which I ought to lead, to become the moſt acceptable to you. In this ſort, your life and vertues, <hi>O Jeſus,</hi> are the ſquare of my actions, and the rules which I am to follow.
+<pb n="98" facs="tcp:179960:62"/>Grant me then the grace, that I may know them to eſteeme them, that I eſteem them to love them, and that I love them to practiſe them, in ſuch ſort as you require of me: For I am well aſſured that I ſhall have no ſhare in your glory, if I doe not imi<g ref="char:EOLhyphen"/>tate your vertues, and ſhall not partake of your triumphs, if I beare not a part in your com<g ref="char:EOLhyphen"/>bats.</p>
+                  </div>
+               </div>
+            </div>
+            <div type="section">
+               <pb n="99" facs="tcp:179960:62"/>
+               <head>Ecce Homo.</head>
+               <div type="part">
+                  <head>Point I.</head>
+                  <p> SEe the extreme confuſion and contempt unto which <hi>Jeſus</hi> is expoſed, ſince his owne peo<g ref="char:EOLhyphen"/>ple preferre a notorious Robber be<g ref="char:EOLhyphen"/>fore him, condemne him to the Croſſe, and demand his death, to give life to a Malefactor. O blind<g ref="char:EOLhyphen"/>neſſe of humane Spirit, which makes more account of Terrene, then Heavenly things, which ho<g ref="char:EOLhyphen"/>nours <hi>Barabas</hi> to reject <hi>Jeſus.</hi> De<g ref="char:EOLhyphen"/>plore this unhappineſſe; and beſeech the ſame <hi>Jeſus</hi> never to permit that humane reſpects or compla<g ref="char:EOLhyphen"/>cency,
+<pb n="100" facs="tcp:179960:63"/>may ever cauſe you to pre<g ref="char:EOLhyphen"/>fer men before God, or the Creature before the Creator.</p>
+                  <div type="prayer">
+                     <head>PRAYER.</head>
+                     <p>
+                        <hi>LOrd,</hi> I bluſh for ſhame and confuſion, ſeeing the little account is made of you; that they condemne you unto the Croſſe to give life to a Thiefe, and reject you to receive <hi>Barab<g ref="char:EOLhyphen"/>bas.</hi> Nevertheleſſe, this is done in your Paſſion: and at preſent (O unhappy ſoule) I find even that in my ſelfe, which I con<g ref="char:EOLhyphen"/>demne in the Jewes; for alas! God of goodneſſe, how often in my life have I rejected your grace, to obey the cupidities of my heart? How often through
+<pb n="101" facs="tcp:179960:63"/>a damnable blindneſſe have I endeavoured to ſatisfie my ſelfe, and pleaſe the Creature againſt your intentions? Finally how often have I preferred the Earth before Heaven, men before God<g ref="char:punc">▪</g> and my owne private contentment, before your ho<g ref="char:EOLhyphen"/>ly will? It is high time <hi>(O Sa<g ref="char:EOLhyphen"/>viour of my ſoule)</hi> that I acknow<g ref="char:EOLhyphen"/>ledge my fault, that I change my life, and open my eyes, to diſcerne how the world is no<g ref="char:EOLhyphen"/>thing to me and that you are my <hi>All.</hi> I confeſſe my crime, I accuſe my infidelity, and condemn both my life and all my actions paſt: Be pleaſed (O good <hi>Jeſus</hi>) to give me a true repentance of them, and grant that my heart may breake with ſorrow, and
+<pb n="102" facs="tcp:179960:64"/>my eyes diſtill fountaines of teares to expiate all my offences; for I deſire (my <hi>Ieſus</hi>) to ſatis<g ref="char:EOLhyphen"/>fie your love, and to live under your Lawes.</p>
+                  </div>
+               </div>
+               <div type="part">
+                  <head>Point II.</head>
+                  <p> THe Sonne of God abaſeth his holy and adorable humanity, to become the reproach of men, the refuſe of his people, and the ob<g ref="char:EOLhyphen"/>ject of their ſcorne and deriſion; And he truly ſaith, <hi>I am a worme of the earth.</hi> At the ſight of your <hi>Jeſus</hi> diſſolve into humility, and affect rather to be low and humble with the humble <hi>Jeſus,</hi> then great and honour'd with <hi>Pilate.</hi>
+                  </p>
+                  <div type="prayer">
+                     <pb n="103" facs="tcp:179960:64"/>
+                     <head>PRAYER.</head>
+                     <p>IF you ſay that you are but a worme of the earth, the re<g ref="char:EOLhyphen"/>proach of men, and the refuſe of the people, what muſt I be, my <hi>Ieſus?</hi> For it is juſt, that I ſhould be much leſſe then your ſelfe? If you hold ſo low a rank amongſt men, who are the Sonne of God, what place ſhall I find, who am but a ſinner, a child of <hi>Adam,</hi> and un<g ref="char:EOLhyphen"/>worthy of your grace? O how much conſtrained do I now find my ſelfe to confeſſe, that I am nothing, and worthy of con<g ref="char:EOLhyphen"/>tempt and confuſion? I con<g ref="char:EOLhyphen"/>feſſe that I am too blame, and e<g ref="char:EOLhyphen"/>levate my ſelfe above reaſon,
+<pb n="104" facs="tcp:179960:65"/>when I deſire to be eſteemed and honoured by men. Where<g ref="char:EOLhyphen"/>fore in view of the contempt, which you indure, I pur<g ref="char:EOLhyphen"/>poſe to alter my courſe of life, and to imitate you if I can, and with this reſolution I caſt my ſelfe at your feet, O my <hi>Ieſus!</hi> I adore your profound humility; I implore the pow<g ref="char:EOLhyphen"/>er of this vertue to come upon me, and I give my ſelfe intire<g ref="char:EOLhyphen"/>ly to you, to beare the effects thereof, in ſuch ſort as to you ſhall ſeem good. I know very well that I ought to affect hu<g ref="char:EOLhyphen"/>miliations, confuſions, and con<g ref="char:EOLhyphen"/>tempts; I know that they are my portion; they are the moſt conformable to my ſtate, ſince I am a ſinner. But my perverted
+<pb n="105" facs="tcp:179960:65"/>ſpirit and quite corrupted na<g ref="char:EOLhyphen"/>ture is averſe thereunto: Ne<g ref="char:EOLhyphen"/>vertheleſſe Lord, I will love you; ſuccour only my weak<g ref="char:EOLhyphen"/>neſſe, annihilate my averſions, and fortifie my will, that I may put in practiſe the good reſolu<g ref="char:EOLhyphen"/>tion which I have taken in your preſence.</p>
+                  </div>
+               </div>
+               <div type="part">
+                  <head>Point III.</head>
+                  <p>
+                     <hi>IESUS</hi> beares the Rigours, Dolours, and Humiliations, which our ſinnes have merited. It is for this cauſe, he preſents himſelfe unto the people, to ſuf<g ref="char:EOLhyphen"/>fer, and unto his Father, to ſa<g ref="char:EOLhyphen"/>tisfie his juſtice. Caſt your ſelfe at his feet (O my ſoule) and ſay
+<pb n="106" facs="tcp:179960:66"/>affectionately, <hi>Behold the man,</hi> whom I ſeeke; for he is my <hi>Jeſus,</hi> my Saviour, and my All; I ſee him, I embrace him, and I reſolve, that he ſhall be my King, and reigne alone in my heart.</p>
+                  <div type="prayer">
+                     <head>PRAYER.</head>
+                     <p>AT the ſight of what you act and ſuffer for me, O my <hi>Ieſus,</hi> I remaine diſtracted, and fall into a kind of rapture; for what am I Lord? And what need have you of me, that you ſhould ſeeke my ſalvation at the coſt of ſo many labours? What is there in my ſoule capable of inviting you to offer your ſelfe unto your Father, to appeaſe by your torments his Juſtice which
+<pb n="107" facs="tcp:179960:66"/>I have irritated by my offences? Surely is is nothing but love, which (exerciſing the power and rigour thereof) made you become man, and ſuffer death for me. O Love, how power<g ref="char:EOLhyphen"/>full art thou, ſince thou haſt re<g ref="char:EOLhyphen"/>duced my <hi>Ieſus</hi> into ſtate where<g ref="char:EOLhyphen"/>in I contemplate him, in his life and death! O Love how ſtrong is thine arme, ſince thou haſt drawne my <hi>Ieſus</hi> from the Throne of his glory, to place him in humiliations, and to ſub<g ref="char:EOLhyphen"/>ject him to ſo many paines? Love, if thou haſt power over my God, muſt not thou have it over my heart? No, there is no meanes to withſtand it; whatſoever it coſts, I muſt love him, who hath loved us more
+<pb n="108" facs="tcp:179960:67"/>then his own life, who in giving himſelfe, requires nothing but our love. I reſigne my ſelf then unto you <hi>(ô Love of my Soule)</hi> to love you with my whole heart: Grant onely, if you pleaſe, that I may love nothing but you; for you both com<g ref="char:EOLhyphen"/>mand and oblige me to love you: I am content, but unable to do it, without your grace. Ef<g ref="char:EOLhyphen"/>fect then this work in me, of lo<g ref="char:EOLhyphen"/>ving you, and looſen my heart from all earthly affections, to the end I may entirely unite my ſelfe to you: And be pleaſed to give mee a holy inability, which may render me uncapa<g ref="char:EOLhyphen"/>ble of ſevering my ſelfe from you, and of loving any other.</p>
+                  </div>
+               </div>
+            </div>
+            <div type="section">
+               <pb n="109" facs="tcp:179960:67"/>
+               <head>IESUS carrieth his Croſſe.</head>
+               <div type="part">
+                  <head>Point I.</head>
+                  <p> COnſider the hunger and inſa<g ref="char:EOLhyphen"/>tiable thirſt, the extreme love and deſire, which <hi>Jeſus</hi> hath to ſuffer for us, having never ſaid, <hi>It is enough,</hi> nor refuſing any torments which are inflicted on him, allowing all perſons to torture him. Ask of <hi>Jeſus,</hi> that he would vouchſafe to eſtrange you from the pleaſures of the world, and admit no longer any repugnancy in your ſelfe, to indure for his ſake.</p>
+                  <div type="prayer">
+                     <pb n="110" facs="tcp:179960:68"/>
+                     <head>PRAYER.</head>
+                     <p>O Amiable <hi>Ieſus!</hi> How juſt is it that I now con<g ref="char:EOLhyphen"/>feſſe the exceſſe of your love, and acknowledge the mercies which you ſhew me; for you are not ſatisfied in purchaſing me, by the profuſion of your bloud, and appeaſing the divine Juſtice by your death, but exci<g ref="char:EOLhyphen"/>ted by the love which you beare me, and by a deſire of my ſalvation, you expoſe your ſelfe to all ſorts of confuſions; and by a divine patience, you refuſe no tortures, and ſhun no paines, which impiety invents to make you ſuffer. At the ſight of ſo much goodneſſe, and at the ob<g ref="char:EOLhyphen"/>ject
+<pb n="111" facs="tcp:179960:68"/>of your vertues, what can I do leſſe, whereby I may become the moſt acceptable to you, then imitate your life, and imbrace with you, all croſſes and ſuffe<g ref="char:EOLhyphen"/>rances? For I know you have ſaid of it, that <hi>he is unworthy of you, who beares not his croſſe with you, and refuſes to follow you.</hi> I purpoſe then <hi>(O Saviour of my ſoule)</hi> I purpoſe willingly to follow you, and (renouncing my owne pleaſures) ſufferance ſhall be my onely love and de<g ref="char:EOLhyphen"/>light. I cannot effect it without your grace; be pleaſed therefore to beſtow it on me; for without you I can do nothing, and with you I am inabled to doe all things.</p>
+                  </div>
+               </div>
+               <div type="part">
+                  <pb n="112" facs="tcp:179960:69"/>
+                  <head>Point II.</head>
+                  <p>
+                     <hi>IESUS</hi> loaden with his Croſſe, ſinkes under the burthen, not of the heavineſſe of the wood, but under the weight of our offences, wherewith he charged himſelfe before the Iuſtice of his Father; And in view of the whole world, he carrieth the confuſion and con<g ref="char:EOLhyphen"/>tempt which our crimes have me<g ref="char:EOLhyphen"/>rited. Beg of him the ſpirit and gift of Penance, to the end taking part in the ſatisfactions of <hi>Chriſt Jeſus,</hi> you may endeavour in ſome meaſure by your ſelf to ſatisfy God, whom you have ſo often offended.</p>
+                  <div type="prayer">
+                     <pb n="113" facs="tcp:179960:69"/>
+                     <head>PRAYER.</head>
+                     <p>MY <hi>Ieſus,</hi> give me light to diſcerne the weight of ſinne; the grace to deteſt it, as it deſerveth, and love to become repentant as I ought; for I in<g ref="char:EOLhyphen"/>tend, Lord, to doe Penance. I know that you have ſuffered for me, and that you died to give me life, and to aſſociate me to the number of your children: And true it is, that all that you have done was only to obtaine pardon for my offences, and to ſatisfie for the paine due un<g ref="char:EOLhyphen"/>to my crimes; finally it is true, Lord, that your merits are infinite: But yet, it is likewiſe juſt, and you give
+<pb n="114" facs="tcp:179960:70"/>it me in command, that I alter my courſe of life, and doe Pe<g ref="char:EOLhyphen"/>nance to ſati fie your divine Ju<g ref="char:EOLhyphen"/>ſtice; for otherwiſe I cannot partake of the ſatisfaction of your Croſſe, nor of the merits of your ſufferings. Be pleaſed then to beſtow on me the ſpirit of Penance, and the zeale of your Juſtice, that I may exerciſe it on my ſelfe. But vouchſafe to give it me from this inſtant, for feare leſt I be ſurprized, and (excepting the houre of death, and the day of vengeance) I find my ſelfe unworthy of mercy. I deſire to prevent, leſt I be pre<g ref="char:EOLhyphen"/>vented. It is a bleſſing which depends on you, and which I beg of you with my whole heart.</p>
+                  </div>
+               </div>
+               <div type="part">
+                  <pb n="115" facs="tcp:179960:70"/>
+                  <head>Point III.</head>
+                  <p>COnſider the humiliation which <hi>Jeſus</hi> hath borne in the thoughts and judgements of men, who eſteemed him ſtrucken and reproved, condemned and aban<g ref="char:EOLhyphen"/>doned even of God himſelfe, judg<g ref="char:EOLhyphen"/>ing him worthy of all the tor<g ref="char:EOLhyphen"/>ments which he indured. Render him thanks for ſupporting all this, in ſatisfaction for the pride of men, and from henceforth ſtrive to affect humility, and learn to deſpiſe the vaine judgements which may be made of you.</p>
+                  <div type="prayer">
+                     <pb n="116" facs="tcp:179960:71"/>
+                     <head>PRAYER.</head>
+                     <p>ALl the ſinnes of men (O a<g ref="char:EOLhyphen"/>miable <hi>Ieſus</hi>) are the cauſe of your death; but pride, which is the mother of all ſinnes, is the principall occaſion thereof. For if you came into the world to ruine and annihilate the King<g ref="char:EOLhyphen"/>dome of death, and the empire of ſinne, much more did you come, to combate the pomp of the world, and to deſtroy the pride of men. It was to this end you were borne, and lived ſo poore and abject: It was for this end, that you died in the midſt of ſo many confuſions, loaden with ſo many reproa<g ref="char:EOLhyphen"/>ches; it was to condemne
+<pb n="117" facs="tcp:179960:71"/>pride, that your whole life, your ſufferings and death were onely in humiliations: Since them (O <hi>Lord</hi>) you neither liv'd nor dy'd but to condemne pride, which is the ſpring of all miſeries, I condemne it with you, and de<g ref="char:EOLhyphen"/>teſt it for your ſake. Be pleaſed to root out of my heart, and to ingrave in my ſoule the love of humility. And as in this myſte<g ref="char:EOLhyphen"/>ry you abandon your ſelfe to the falſe judgments of men, who eſteem you worthy all the tor<g ref="char:EOLhyphen"/>tures which you indure; ſo vouchſafe to give me the grace, that for the combating my pride, I may affect contempt, &amp; deſpiſe the falſe judgments of men. And for the completement of my bleſſing, I beg of you,
+<pb n="118" facs="tcp:179960:72"/>that I may partake of the grace and ſpirit of your Paſſion, and that you will be pleaſed to form in me your diſpoſitions, your actions and ſufferings: for I ſhall aſſuredly raigne with you, if I become like unto you.</p>
+                  </div>
+               </div>
+            </div>
+            <div type="section">
+               <pb n="119" facs="tcp:179960:72"/>
+               <head>IESUS is nailed unto the Croſſe</head>
+               <div type="part">
+                  <head>Point I.</head>
+                  <p>
+                     <hi>PIlate</hi> abandoneth <hi>Jeſus</hi> to the will and malice of ſinners, and <hi>Jeſus</hi> himſelfe became <hi>obedient</hi> in every thing, <hi>even to the death of the Croſſe.</hi> He is delivered up to the <hi>Jewes,</hi> and <hi>Gentiles,</hi> to be nailed and faſtned to this ignomi<g ref="char:EOLhyphen"/>nious piece of wood, in ſuch ſort as they ſhall ordaine. Adore <hi>Jeſus,</hi> who ſatisfieth by his obedience for the diſobedience of ſinners, and learne to love obedience, and to preferre the will of God before all
+<pb n="120" facs="tcp:179960:73"/>things, of this world, even before your owne life.</p>
+                  <div type="prayer">
+                     <head>PRAYER.</head>
+                     <p>O My Saviour and my God! I remaine not in this world, but to fulfill your holy will; all my happineſſe depends on this point, and the perfection of my ſoule conſiſts in this vertue; hitherto both Heaven, Earth, the Elements, and all Creatures, in obeying you, teach me what I ought to doe: But the death of my <hi>Ieſus (ô Eternall Father)</hi> and his o<g ref="char:EOLhyphen"/>bedience in all the myſteries of his Paſſion, evidenceth to me that I ought to preferre your holy will, before my own con<g ref="char:EOLhyphen"/>tentments,
+<pb n="121" facs="tcp:179960:73"/>my private intereſt, and even life it ſelfe; that I muſt feare neither contempts nor ſuf<g ref="char:EOLhyphen"/>ferances, nor even labours in all occaſions, which concerne that obedience, which I owe your Soveraigne Majeſty; for if your Sonne hath abandoned himſelfe to an ignominious death, if he hath given his adorable feet and hands to be cruelly nailed unto a Croſſe, and if he ſubjected himſelfe to the will of ſinners, and executioners, what can I doe leſſe from henceforward, then learne of my <hi>Ieſus,</hi> the o<g ref="char:EOLhyphen"/>bedience, which I owe to all that you require of me? In ho<g ref="char:EOLhyphen"/>nour then of the obedience of your Sonne, and in homage to this vertue which he hath pra<g ref="char:EOLhyphen"/>ctiſed,
+<pb n="122" facs="tcp:179960:74"/>rendering himſelf <hi>obedi<g ref="char:EOLhyphen"/>ent even to the death of the Croſſe,</hi> I give my ſelfe unto you, <hi>(O Fa<g ref="char:EOLhyphen"/>ther of mercy!)</hi> and acknowledge my ſelfe your Creature and Vaſ<g ref="char:EOLhyphen"/>ſall, and I purpoſe faithfully to obey you, and to live under the lawes of your Empire. Do not permit Lord, if you pleaſe, that I ever prove rebellious to you, or that to fulfill my owne will I forſake yours; but by an effect of the Myſterie which I con<g ref="char:EOLhyphen"/>template, grant that I preferre your holy will before all earth<g ref="char:EOLhyphen"/>ly things, and even my owne life; for ſuch is my deſire.</p>
+                  </div>
+               </div>
+               <div type="part">
+                  <pb n="123" facs="tcp:179960:74"/>
+                  <head>Point II.</head>
+                  <p>BEhold the ſubmiſſion where<g ref="char:EOLhyphen"/>in <hi>Jeſus</hi> the King of glory, vouchſafeth to place himſelfe, for our ſinnes; when as with a pro<g ref="char:EOLhyphen"/>found ſilence he ſubmits to the Iud<g ref="char:EOLhyphen"/>ges, to the Executioners and his Enemies: And he even abando<g ref="char:EOLhyphen"/>neth himſelfe to the power of Di<g ref="char:EOLhyphen"/>vels, obeying ſo humbly and readi<g ref="char:EOLhyphen"/>ly when they go about to uncloath him, to naile and faſten him to the Croſſe. Subject your ſelfe for his ſake, as much as you may, chiefly when there ſhall be occaſion of be<g ref="char:EOLhyphen"/>ing humbled, or ſuffering any thing for the honour of God.</p>
+                  <div type="prayer">
+                     <pb n="124" facs="tcp:179960:75"/>
+                     <head>PRAYER.</head>
+                     <p>GIve me the grace, <hi>O God of love and goodneſſe!</hi> to know you, and under<g ref="char:EOLhyphen"/>ſtand my ſelfe; for if you im<g ref="char:EOLhyphen"/>part unto me this light, and af<g ref="char:EOLhyphen"/>fect me with a ſenſe of this ve<g ref="char:EOLhyphen"/>rity, it will be eaſie for me to annihilate my ſelfe in the pre<g ref="char:EOLhyphen"/>ſence of your Soveraigne Ma<g ref="char:EOLhyphen"/>jeſty: it will be no longer un<g ref="char:EOLhyphen"/>eaſie for me to condemne and confound my ſelfe, conſider<g ref="char:EOLhyphen"/>ing the little love I beare you, and it will be facile for me to ſuffer contempts, humiliations, and the Croſſes of this preſent life: For (O benigne <hi>Ieſus</hi>) I ſee you all naked in the midſt
+<pb n="125" facs="tcp:179960:75"/>of moſt cruell Executioners, ſtretched out upon this ignomi<g ref="char:EOLhyphen"/>nious wood of the Croſſe; and if you, who are the onely Son of my God, have been pleaſed to endure for my ſake the ſcour<g ref="char:EOLhyphen"/>ges, the nailes, and the Croſſe, why ſhall I refuſe for the love of you, the pains and contempts of this life? No, no, Lord, I deteſt my pride, I accuſe my re<g ref="char:EOLhyphen"/>miſſeneſſe, and renounce the de<g ref="char:EOLhyphen"/>licacies and effeminacies of this world, to the end I may imitate you, and partake of the ſpirit, grace, and merits of your death and paſſion.</p>
+                  </div>
+               </div>
+               <div type="part">
+                  <pb n="126" facs="tcp:179960:76"/>
+                  <head>Point III.</head>
+                  <p>COnſider <hi>Jeſus</hi> ſuffering in all things which may bring him pain, humiliation, and confuſion, to expiate the abuſe we make of every thing, which we imploy in offending the Divine Majeſty; and to condemne the inordinate love wherein we preferre the creature before the Creator. Implore his grace to make good uſe of all things and take an averſion to the wanton<g ref="char:EOLhyphen"/>neſſe of the fleſh.</p>
+                  <div type="prayer">
+                     <head>PRAYER.</head>
+                     <p>O Amiable <hi>Ieſus,</hi> you have created me to love you, and have loved me to oblige me
+<pb n="127" facs="tcp:179960:76"/>to your love, nay, all that you have done and ſuffered, was but to draw me to you, and to in<g ref="char:EOLhyphen"/>gage me in your ſervice. I ren<g ref="char:EOLhyphen"/>der you thanks with my whole heart, and I beſeech you to give me the grace that I may love you above all things, and love nothing but your ſelfe in all things. Be pleaſed to annihi<g ref="char:EOLhyphen"/>late in me, whatſoever is oppo<g ref="char:EOLhyphen"/>ſite to your love, conſume in my heart ſelfe-love, and all af<g ref="char:EOLhyphen"/>fections to creatures, to the end I may unite my ſelfe to you, and live wholly for you. I know very well that my crimes and offences have rendred me un<g ref="char:EOLhyphen"/>worthy of this grace; But (O <hi>God of love and goodneſſe!</hi>) you have ſuffered death on the
+<pb n="128" facs="tcp:179960:77"/>Croſſe, to obtaine for us this grace, and to attract us to your love. Fix then if you pleaſe, (O benigne <hi>Ieſus</hi>) fix I ſay your love in my heart, and your feare in my ſoule, and grant that I may love you with all my pow<g ref="char:EOLhyphen"/>er, and with all my forces in or<g ref="char:EOLhyphen"/>der to your command.</p>
+                  </div>
+               </div>
+            </div>
+            <div type="section">
+               <pb n="129" facs="tcp:179960:77"/>
+               <head>Ieſus upon the Croſſe.</head>
+               <div type="part">
+                  <head>Point I.</head>
+                  <p>
+                     <hi>IEſus</hi> ſuffers in all the parts of his body, who hath nothing whole from the feet to the head; for he is covered all over with wounds, bruiſed with blowes, and his bloud quite exhauſted. He in<g ref="char:EOLhyphen"/>dures all theſe ſeverall paines, to expiate the abuſe which we make of our bodies, &amp; to condemne the plea<g ref="char:EOLhyphen"/>ſures and volupties of the world. Offer your Soule, your body and life to <hi>Jeſus,</hi> and deſire ſtrength of him to deſpiſe the delights of this life, and grace to ſuffer whatſoever ſhall happen to you.</p>
+                  <div type="prayer">
+                     <pb n="130" facs="tcp:179960:78"/>
+                     <head>PRAYER.</head>
+                     <p>BEnigne <hi>Ieſus,</hi> what compa<g ref="char:EOLhyphen"/>riſon can there be between the grandeurs of your Sove<g ref="char:EOLhyphen"/>raigne Majeſty, and the abaſe<g ref="char:EOLhyphen"/>ment of the Croſſe? You are life in your divine Eſſence, and you are life and glory to every rationall creature. Why doe you then abaſe your ſelfe (O <hi>ineffable greatneſſe</hi>) even to the torment of an ignominious death? You undergoe it for me, poor and miſerable ſinner, and your love reduces you to a death on the Croſſe, to give life to me, who am dead by ſin. This ſtate is too unworthy of your greatneſſe, remaine rather
+<pb n="131" facs="tcp:179960:78"/>on the Throne of your glory, and leave me in the miſeries and misfortunes which I have ac<g ref="char:EOLhyphen"/>quired by my demerits: And if your goodneſſe excite and in<g ref="char:EOLhyphen"/>vite you to ſhew me favour, let it be at leaſt without concerne<g ref="char:EOLhyphen"/>ment of your greatneſſe, or a<g ref="char:EOLhyphen"/>baſement of your incomprehen<g ref="char:EOLhyphen"/>ſible Majeſty. But I clearly diſ<g ref="char:EOLhyphen"/>cerne (O my <hi>Ieſus</hi>) that it is your infinite goodneſſe that invites you to love us with an infinite love, and hath procured the communication of your ſelfe to our ſoules, in an unconceivable manner; for you exhauſt your owne perſon, to give your ſelfe unto men, and you even con<g ref="char:EOLhyphen"/>ſume your ſelfe in the flames of Charity, to ſhew me your
+<pb n="132" facs="tcp:179960:79"/>love and oblige me to love you. You ſuffer and die, to the end, that having purchaſed me at the price of your bloud, and life, I may be no longer mine, and live no more to my ſelfe, but remain wholly yours, and live only for you. Alas Lord! when will this happineſſe befall me? it is what I deſire; for I am yours, my ſoulde, my body, and actions are yours. I offer and ſubmit them entirely, and eternally to your holy will, that you may do in, and by me what you pleaſe; for I am wholly yours, as you are all mine.</p>
+                  </div>
+               </div>
+               <div type="part">
+                  <pb n="133" facs="tcp:179960:79"/>
+                  <head>Point II.</head>
+                  <p>
+                     <hi>JEſus</hi> thus covered over with wounds, and ſuffering in all the members of his body, is on the Al<g ref="char:EOLhyphen"/>tar of the Croſſe, as a victime for all ſinners, offering himſelf to his Father, to heale them of the wounds made by their ſinnes, and he gives even to the laſt drop of his bloud, for expiation of their offences. Compaſſionate his Dolous, render him thankes for the love he beares you, and proteſt never more to offend him.</p>
+                  <div type="prayer">
+                     <pb n="134" facs="tcp:179960:80"/>
+                     <head>PRAYER.</head>
+                     <p>ALl that you ſuffer on the Croſſe (O amiable <hi>Ieſus</hi>) and the paines which have con<g ref="char:EOLhyphen"/>ſummated your Paſſion, are but the ranſome of my offences, and the ſatisfaction of all my crimes; for they are my ſinnes which have deprived you of life, it is my pride which hath humbled you; my ſelfe-love, and the plea<g ref="char:EOLhyphen"/>ſures of my life, have ſcourged you; my perverſe inclinations and vaine deſires have crowned you with thornes: in fine you die upon the ignominious Tree of the Croſſe to deliver me from the capiivity of the Divell and ſinne, and to ſatisfie the divine
+<pb n="135" facs="tcp:179960:80"/>Juſtice, juſtly irritated againſt me; ſo that I conſider you on the Altar of the Croſſe, as an holy victime, which you offer unto your Father to appeaſe him; and your death is a ſacri<g ref="char:EOLhyphen"/>fice, which you make to him of your ſelfe, to merit life for mee, and to obtaine pardon for my offences. After ſo great a beni<g ref="char:EOLhyphen"/>fit, can I be ſo unhappy, as ſeeke to revive ſinne in my ſoul, and render my ſelfe ſtill a ſlave to it? Can I deſire to enter in<g ref="char:EOLhyphen"/>to a new commerce with vice, and obey my own concupiſcen<g ref="char:EOLhyphen"/>ces, which have crucified you? No, no, <hi>(ſuccour of my Soule)</hi> I deteſt them with my whole heart, and hate them with all my force, for the love of you.
+<pb n="136" facs="tcp:179960:81"/>I will no longer offend you by the aſſiſtance of your holy grace, which I beg of you by the me<g ref="char:EOLhyphen"/>rits of your paſſion. Since you die onely to extirpate ſinne in my ſoule, and to baniſh vice out of my conſcience: Effect Lord, effect what you deſire, and give me a holy inabilitie of offend<g ref="char:EOLhyphen"/>ing you.</p>
+                  </div>
+               </div>
+               <div type="part">
+                  <head>Point III.</head>
+                  <p>
+                     <hi>IEſus</hi> ſheds his bloud in ſuffer<g ref="char:EOLhyphen"/>ing, and expires by the effuſion thereof; But the nailes and Exe<g ref="char:EOLhyphen"/>cutioners being unable to extin<g ref="char:EOLhyphen"/>guiſh the ardor of his love, which even in death it ſelfe cannot die, he conſerves what remaines of it in his heart and body, to poure out
+<pb n="137" facs="tcp:179960:81"/>upon the Croſſe, even to the laſt drop, that he may evidence to us the profuſion, which he intends to make of his ſpirit, of his graces and love. Sacrifice unto him your heart, and offer your ſelfe to him to beare the effects of the Croſſe, as he ſhall pleaſe to imprint them in your Soule.</p>
+                  <div type="prayer">
+                     <head>PRAYER.</head>
+                     <p>I Adore you (O my <hi>Ieſus</hi>) cru<g ref="char:EOLhyphen"/>cified, as the beginning of all happineſſe, and as the Spring of all graces and benedictions, which either have been, or ſhall ever be communicated to men: I adore all the thoughts and de<g ref="char:EOLhyphen"/>ſires, which you have had upon the Croſſe, of giving your grace
+<pb n="138" facs="tcp:179960:82"/>&amp; love to your elect; finally <hi>(my Saviour)</hi> I adore the profuſion you make of your bloud, even to the laſt drop, and the exceſſe of love, which you expreſſe in all the ſtates of your life, and death. Grant me the grace to beare the effects thereof, and faithfully to co-operate with the merits of your Paſſion: for what will it availe me <hi>(O God, of love)</hi> that you are dead upon the Croſſe, and bountifull in communicating your Spirit, and grace, if I render my ſelfe un<g ref="char:EOLhyphen"/>worthy of it, and oppoſe my ſelfe againſt it by my iniquitie? Nevertheleſſe it is what I feare, for I am too miſerable, and ſhall ſurely remaine obdurate in my ſinne, if you prevent me not with
+<pb n="139" facs="tcp:179960:82"/>your grace, if you guard me not with your ſuccour, and if you continue not your favour to me. Wherefore (O <hi>
+                           <gap reason="illegible" resp="#UOM" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>exhauſti<g ref="char:EOLhyphen"/>ble goodneſſe</hi>) be pleaſed not to thinke it enough to have given your bloud and life; but beſtow on me over and above, I b<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ſeech you, your ſpi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>it, your grace and love. And I make a gift to you of my heart, my ſpirit and life, and remit into your hands, the libertie wherein you have created me, to the end I may become from henceforth a ſlave to your love, and that my ſoule may live no longer, then to re<g ref="char:EOLhyphen"/>ceive the effects of your death, and the life of your Croſſe.</p>
+                  </div>
+               </div>
+            </div>
+            <div type="section">
+               <pb n="140" facs="tcp:179960:83"/>
+               <head>IESUS lying dead betweene the armes of his holy Mother.</head>
+               <div type="part">
+                  <head>Point I.</head>
+                  <p> IT is an unheard of thing to ſee God upon the Croſſe, and life in death; yet you behold Jeſus ſtretched out between the armes of his holy Mother. He is dead, but by this meanes he becomes the life of our Soules. This manner of death is infinitely diſtant from the greatneſſe of God; but love hath wrought this wonder to convey life to your ſoule, and death to your ſins.
+<pb n="141" facs="tcp:179960:83"/>Give your ſelfe to <hi>Jeſus</hi> and <hi>Ma<g ref="char:EOLhyphen"/>ry,</hi> to be are in you theſe two effects of life and death.</p>
+                  <div type="prayer">
+                     <head>PRAYER.</head>
+                     <p>IF I deſire to live in God, and in order to what he requires of a <hi>Chriſtian,</hi> I muſt needs die to ſinne, alter my depraved cu<g ref="char:EOLhyphen"/>ſtomes, and withdraw my heart from ſelfe-love and all affe<g ref="char:EOLhyphen"/>ction to creatures. But how ſhall I doe it, <hi>O bleſſed Virgin,</hi> if I receive not powerfull aſſi<g ref="char:EOLhyphen"/>ſtance? for I am able to act no<g ref="char:EOLhyphen"/>thing, if I want efficacious grace which operates in and with me, what God deſires of me. Now from whence may I have it, but from and by you, <hi>O Mother</hi> of
+<pb n="142" facs="tcp:179960:84"/>grace and mercy, ſince God hath put into your hands, the price of my Salvation, and ſince you hold in your armes, the fountaine of all graces? I re<g ref="char:EOLhyphen"/>paire then to you <hi>(O benigne Virgin)</hi> and I give my ſelfe to you, to the end by the power which you have in quality of my Saviours mother, you may produce in my ſoule the effects of life and death; my meaning is, that you operate in ſuch ſort by your favour, that I may real<g ref="char:EOLhyphen"/>ly die to my vices and ſinnes, that I may deteſt and hate them, and lead ſuch a life as God ex<g ref="char:EOLhyphen"/>pects of me, and to which I ob<g ref="char:EOLhyphen"/>liged my ſelfe, when by <hi>Bap<g ref="char:EOLhyphen"/>tiſme</hi> I was incorporated, and made a member of <hi>Ieſus Chriſt,</hi> your Sonne.</p>
+                  </div>
+               </div>
+               <div type="part">
+                  <pb n="143" facs="tcp:179960:84"/>
+                  <head>Point II.</head>
+                  <p>THe Son of God vouchſafed to unite pains, ſorrows, af<g ref="char:EOLhyphen"/>flictions, and croſſes to himſelfe, and his holy Mother, with deſigne to render them from thenceforth pleaſing, ſweet, and worthy to be eſteemed and deſired on earth. Be<g ref="char:EOLhyphen"/>gin to eſteem them becauſe they are deified in <hi>Jeſus,</hi> and honoured in his holy Mother. And if you are unable to aske them of God, at leaſt reſolve to be are them with humili<g ref="char:EOLhyphen"/>ty and patience, when they ſhall happen to you.</p>
+                  <div type="prayer">
+                     <pb n="144" facs="tcp:179960:85"/>
+                     <head>PRAYER.</head>
+                     <p>YOu have ever been <hi>(O holy Virgin)</hi> the wel-beloved of the eternall Father: You are a<g ref="char:EOLhyphen"/>mongſt all the pure creatures, the worthieſt object of his love; You are his ſpouſe, and the true Mother of <hi>Ieſus,</hi> as he is his Fa<g ref="char:EOLhyphen"/>ther; and he gives you his Son, &amp; with him hath put into your hands the treaſures of Heaven, and earth, and all the riches of Divinitie. For this reaſon you are the worthieſt of all pure creatures, and with my <hi>Ieſus</hi> you are the happineſſe of the whole world; Nevertheleſſe <hi>(O Mother of God)</hi> I ſee you in the midſt of mount <hi>Calvary,</hi> and at the foot
+<pb n="145" facs="tcp:179960:85"/>of the Croſſe, holding your Son dead between your armes: You take off the Crowne of thornes, you wipe his wounds, you waſh his body with teares, and kiſſe a thouſand times the bruiſes of his fleſh: You ſuffer likewiſe with him the ignominies, and dolors of the Croſſe; ſo that hu<g ref="char:EOLhyphen"/>miliations, croſſes &amp; afflictions are both in you and in <hi>Jeſus.</hi> In him and you they are become divine, ſanctified and rendred acceptable; And for this cauſe they are worthie of being eſtee<g ref="char:EOLhyphen"/>med, and deſired by <hi>Chriſtians.</hi> What muſt I then doe <hi>(O holy Virgin)</hi> if I will love you? what other thing can I doe, but affect Croſſes and humiliations with you, and humble my ſelfe like
+<pb n="146" facs="tcp:179960:86"/>you. I deſine and purpoſe it thus in my ſoule, procure me only the grace that in all occa<g ref="char:EOLhyphen"/>ſions I may beare every thing with fidelity and patience, in ſuch ſort as God requires of me, and you deſire I ſhould.</p>
+                  </div>
+               </div>
+               <div type="part">
+                  <head>Point III.</head>
+                  <p> THe holy. Virgin holding her Son between her armes, offers him to God and the divine Iuſtice, for ſatisfaction of our offences; And as the Father hath given his Son to the world, and the Son deli<g ref="char:EOLhyphen"/>vered himſelfe up to the Croſſe to ſave us; So the holy Virgin both with heart and will, ſacrificeth her owne Son, that ſhe may in this ſort miniſter unto our Salvation.
+<pb n="147" facs="tcp:179960:86"/>Give her thanks for this extraor<g ref="char:EOLhyphen"/>dinary Charity, and beſeech her to render you faithfull to all the gra<g ref="char:EOLhyphen"/>ces, which the death of the Son of God hath acquired.</p>
+                  <div type="prayer">
+                     <head>PRAYER.</head>
+                     <p>YOu have been choſen <hi>(ô Mo<g ref="char:EOLhyphen"/>ther of grace and mercy!)</hi> to be the repairer of the world, and to co-operate in a moſt peculiar manner to the ſalvation of all mankind. You did when you gave your Sonne <hi>Chriſt Jeſus</hi> to be delivered up to the death of the Croſſe, and you do it when, holding him dead between your armes, you offer him to the di<g ref="char:EOLhyphen"/>vine Juſtice, as a Victime and Sacrifice of propitiation, which
+<pb n="148" facs="tcp:179960:87"/>ſatisfies God for the ſinnes of the world: And in this reſpect you are our Repairer; for <hi>Jeſus</hi> who is the Saviour of men is yours, he is your Sonne, and you are his Mother. And in this quality, you have right to his life, his preſervation, and all his condition?. Nevertheleſſe, <hi>(O Mother of our Soules)</hi> you conſent to his death, you incou<g ref="char:EOLhyphen"/>rage him to torments, you con<g ref="char:EOLhyphen"/>duct him to the Croſſe, and like another <hi>Abraham</hi> you ſacrifice in will and affection your only Sonne, and you ſacrifice him for my ſinnes, ſo great is your cha<g ref="char:EOLhyphen"/>rity and love towards me. But what can I doe in recognition of ſo ſublime a benefit? Where<g ref="char:EOLhyphen"/>in am I able to acknowledge,
+<pb n="149" facs="tcp:179960:87"/>(O <hi>benigne Virgin</hi>) ſo ardent a Charity? At leaſt ſince you give your Sonne for me, procure that I may be your ſlave, and ſince you reſigne him to efface the ſinnes of the world, and that hee may merit for us ſuch graces, as are neceſſary for our ſalvation, be pleaſed to mediate, that I may be faithfull to all the graces, which he hath purcha<g ref="char:EOLhyphen"/>ſed for me by his death, and that I may live no longer, but for his honour and yours, as you give him to the Croſſe and de<g ref="char:EOLhyphen"/>liver him up to death for me.</p>
+                  </div>
+               </div>
+            </div>
+            <div type="section">
+               <pb n="150" facs="tcp:179960:88"/>
+               <head>Our LADIE of Compaſſion.</head>
+               <div type="part">
+                  <head>Point I.</head>
+                  <p> Since the Eternall Father can have no compatency in the do<g ref="char:EOLhyphen"/>lours of his Son, he ſubſtituted the holy Virgin, imprinting in her heart, and Spirit, the vertue of the Croſſe, and the Spirit of his ſufferings; and, piercing her heart with the ſword of ſorrow, he made her ſuffer with her Sonne, that in ſome manner ſhe might co-operate to our Salvation. Conſider what <hi>Jeſus</hi> and the holy Virgin ſuffer for you, and from henceforth take
+<pb n="151" facs="tcp:179960:88"/>delight in the thought of their ſuf<g ref="char:EOLhyphen"/>ferings, and in the love of the Croſſe.</p>
+                  <div type="prayer">
+                     <head>PRAYER.</head>
+                     <p>O Virgin and mother of my <hi>Ieſus!</hi> I render you thanks for having contributed to our ſalvation, not only by giving your Sonne, but alſo in taking your ſhare in his Paſſions; for if he indure, you ſuffer with him; The ſcourges, the thornes, the nailes and the lance, have pierced his body; but love and ſorrow have tranſpierced your heart, and gauled your ſoule. Wherefore <hi>(holy Virgin,</hi> the true refuge of ſinners!) I adore <hi>Ieſus</hi> for my Saviour; but I re<g ref="char:EOLhyphen"/>verence
+<pb n="152" facs="tcp:179960:89"/>you as his Mother, and acknowledge you for the Repai<g ref="char:EOLhyphen"/>rer of the Univerſe; ſince you co<g ref="char:EOLhyphen"/>operate doubly in the good of our ſoules; For you give us your Sonne, and ſuffer with him for us. Be pleaſed alſo to mediate (<hi>O Virgin,</hi> ſpring of life and grace) that I may be from hence<g ref="char:EOLhyphen"/>forward the object of your com<g ref="char:EOLhyphen"/>miſerations. And ſince you have loved me ſo much, as to give me your Sonne, and to give him e<g ref="char:EOLhyphen"/>ven for the Croſſe: ſince your love and charity faſtens you to my intereſts, and makes you ſuf<g ref="char:EOLhyphen"/>fer for mee, procure that I may ſuffer all for you; but chiefly engrave in my heart ſuch a ha<g ref="char:EOLhyphen"/>tred of ſinne, as I may rather in<g ref="char:EOLhyphen"/>dure a thouſand deaths, then
+<pb n="153" facs="tcp:179960:89"/>ſo much as once offend my <hi>Je<g ref="char:EOLhyphen"/>ſus,</hi> your Sonne, who died for my ſinnes.</p>
+                  </div>
+               </div>
+               <div type="part">
+                  <head>Point II.</head>
+                  <p> THe great love of the holy Vir<g ref="char:EOLhyphen"/>gin, hath made her ſuffer ex<g ref="char:EOLhyphen"/>tremely; her life is no other but a Martyrdome; her thoughts are fixed only upon the Croſſe, and her eyes have no other object, then death, and the death of her Sonne: Her love is now but languiſhing, and her languiſhments cauſe her inceſ<g ref="char:EOLhyphen"/>ſantly to ſigh after her God and her Sonne. O my ſoule! how hap<g ref="char:EOLhyphen"/>py ſhould you be, if you could live no longer, but to love and ſuffer.</p>
+                  <div type="prayer">
+                     <pb n="154" facs="tcp:179960:90"/>
+                     <head>PRAYER.</head>
+                     <p>
+                        <hi>Holy Virgin!</hi> how ſhall I attaine so light enough to conceive your greatneſſe, and grace to imitate the ſeverall diſ<g ref="char:EOLhyphen"/>poſitions of your ſoule? I know and faith teacheth me, that you are the Mother of God, that your ſoule is full of grace; and I confeſſe that you are the worthieſt object of love, and the moſt capable of favours from the <hi>bleſſed Trinity;</hi> yet I ſee your ſoule all immerſed in the bitterneſſe of the Croſſe, Your life is no longer but a Martyrdome, your love is lan<g ref="char:EOLhyphen"/>guiſhing, and the object of your ſighs are fixed onely on the
+<pb n="155" facs="tcp:179960:90"/>death of your Sonne. O how content ſhould I be (<hi>O Virgin,</hi> life of my ſoule!) if I could lead ſuch a life as yours, How happy ſhould I be, if in imita<g ref="char:EOLhyphen"/>tion of you, I had no other re<g ref="char:EOLhyphen"/>poſe then in afflictions, no other delight but in the Croſſe, nor other life but in the death of your Sonne! I deſerve not this favour, I have not grace enough to live in ſo holy a manner; ne<g ref="char:EOLhyphen"/>vertheleſſe I deſire to live no longer, but to love, and no lon<g ref="char:EOLhyphen"/>ger to love, but to ſuffer. I offer my ſelfe unto you, for all this, diſpoſe now wholly of me, as you ſhall pleaſe.</p>
+                  </div>
+               </div>
+               <div type="part">
+                  <pb n="156" facs="tcp:179960:91"/>
+                  <head>Point III.</head>
+                  <p>IF Love makes our Soule live, in what ſhe moſt affects; ſure<g ref="char:EOLhyphen"/>ly the holy Virgin lives no longer but in <hi>Jeſus</hi> ſuffering and dying, ſince (he loves nothing but <hi>Jeſus:</hi> And as <hi>Jeſus</hi> is crucified in his bo<g ref="char:EOLhyphen"/>dy, ſo the Virgin is in her ſoule: The Sonne dies on the Croſſe; The Mother ſwounds at his feet; The ſide of the Sonne is pierced with a Lance, the heart of the Mother is tranſpierced with the ſword of ſor<g ref="char:EOLhyphen"/>row; thus both of them live and die together. What will you doe (O my Soule) at the ſight of this ſad ſpectacle, ſince all this is done and accompliſhed for you? Be<g ref="char:EOLhyphen"/>ſeech
+<pb n="157" facs="tcp:179960:91"/>the Sonne and the Mother to inſpire you with true love, and to render you worthy of bearing faith<g ref="char:EOLhyphen"/>fully, the grace and effects of the Croſſe and Paſsion.</p>
+                  <div type="prayer">
+                     <head>PRAYER.</head>
+                     <p>WEre I unwilling <hi>(O be<g ref="char:EOLhyphen"/>nigne Mother of my ſoul)</hi> yet the affection, which you beare me, obligeth me to love you. I am content, nay I deſire it with my whole heart; but I am unable to effect it with<g ref="char:EOLhyphen"/>out a favour from heaven: But as it is a great mercy, that you vouchſafe to love, and co-operate to my ſalvation;
+<pb n="158" facs="tcp:179960:92"/>ſo is it a great grace, that I may be able to love you, and live in your ſervice. I beg then this favour of you (<hi>O Virgin,</hi> Mo<g ref="char:EOLhyphen"/>ther of my ſoule) and I beſeech you to change my heart, that from henceforward I may bee yours, and entirely dedicated to your ſervice. Put me in a ſtate of perpetuall ſervitude towards you, eſtabliſh me in the true love of <hi>Jeſus,</hi> and procure that I may both live and die, perſe<g ref="char:EOLhyphen"/>vering in that love and ſervice which I owe you. I remit my life <hi>(O holy Virgin)</hi> into your hands; I remit into your hands the houre of my death, becauſe I will be wholly yours, and depend on you in ſuch ſort as my God and my <hi>Ieſus</hi> deſires
+<pb n="159" facs="tcp:179960:92"/>it of me. Be pleaſed then (O <hi>Mother of mercy!</hi>) to receive me into your protection, and to looke on mee as the object of your goodneſſe, and the ſubject of your commiſeration. Accept of my good will, fortifie my weakneſſe, and give mee the grace to put in practice the good purpoſes which God hath ſuggeſted to me by your inter<g ref="char:EOLhyphen"/>ceſſion, and no longer permit that I act any thing, which may annihilate in my ſoule the ef<g ref="char:EOLhyphen"/>fects of grace: but obtaine for me a capacity of receiving in my heart ſuch effects of the Croſſe, as my <hi>Ieſus</hi> ſhall infuſe into it, and fidelity to co-ope<g ref="char:EOLhyphen"/>rate therewith in ſuch ſort, as my God and my <hi>Ieſus</hi> requires of me.</p>
+                  </div>
+               </div>
+            </div>
+            <div type="section">
+               <pb facs="tcp:179960:93"/>
+               <pb n="161" facs="tcp:179960:93"/>
+               <head>ASPIRATIONS OF The Soule unto God, in forme of PRAYER.</head>
+               <div type="prayer">
+                  <head>The oblation of ones ſelfe unto God.</head>
+                  <p>
+                     <hi>Lord Ieſus!</hi> of my ſelfe I can doe nothing, for I am a miſerable creature; but with you nothing is impoſſible to me. Abide then in me, (O <hi>happineſſe of my ſoule</hi>) live and raigne over me to effect in me what is acceptable to you. You
+<pb n="162" facs="tcp:179960:94"/>have all power, and I offer it you a freſh over my life, and actions, even from the bottome of my ſoule: I remit into your hands, the ſame liberty, will, and life which you have given me. Be pleaſed to accept and keepe them as yours; for I am wholly yours, and will depend on you.</p>
+               </div>
+               <div type="prayer">
+                  <head>Another Oblation.</head>
+                  <p>MY <hi>Ieſus,</hi> by the nature of your being, by the emi<g ref="char:EOLhyphen"/>nency of your greatneſſe, and by the ſtate of your miſeries, you have been pleaſed to be, both my Father, my Lord, and my Judge; I implore all theſe a<g ref="char:EOLhyphen"/>dorable
+<pb n="163" facs="tcp:179960:94"/>qualities, and I invoke the power which you have over me, by theſe holy properties which are in you, and I beſeech you by the ſame mercy and goodneſſe, which hath made you take on you thoſe ſtates, that you would vouchſafe to inſpire me with that fidelity, which I owe you, that I may be by my life your Sonne, as you are my Father by grace, that I may be your ſlave by a true ſub<g ref="char:EOLhyphen"/>jection, ſince you are my Lord. And as I acknowledge and a<g ref="char:EOLhyphen"/>dore you as my Saviour, ſo let me be your captive, being wholly yours, and acting no<g ref="char:EOLhyphen"/>thing but for you. And ſince you are my Judge, and that I confeſſe my ſelfe criminall, be
+<pb n="164" facs="tcp:179960:95"/>pleaſed to diſtill into my ſoule, the zeale of your Juſtice, to the end by your Grace, and with vour Juſtice, I may exe<g ref="char:EOLhyphen"/>cute Juſtice on my ſelfe, and ſatisfie your juſt indignation, occaſioned by the multitude of offences, which I have preſu<g ref="char:EOLhyphen"/>med to commit againſt your di<g ref="char:EOLhyphen"/>vine goodneſſe. Thus I deſire it, thus doe I give my ſelfe up unto you <hi>(O Ieſus, Saviour and Iudge of my Soule)</hi> to become the victime of your will, and to bear the effects of your grace, Spirit, and myſteries, in ſuch ſort as you ſhall pleaſe. In this manner I renounce my ſelfe, to enter into all the diſpoſitions, and ſtates, which the eternall Father will have me beare in
+<pb n="165" facs="tcp:179960:95"/>you, and for your ſake <hi>O Ieſus.</hi>
+                  </p>
+               </div>
+               <div type="prayer">
+                  <head>A Reſignation to the will of God.</head>
+                  <p>O <hi>Ieſus!</hi> Father and begin<g ref="char:EOLhyphen"/>ning of all light, illumi<g ref="char:EOLhyphen"/>nate my ſoule with your ſplen<g ref="char:EOLhyphen"/>dor, that I may diſcerne what is diſagreeable to you, and give mee the grace to avoid it. Grant that I may both know your will, and accompliſh it, in every point; for I deſire to be wholly yours, and to live no longer but for you.</p>
+               </div>
+               <div type="prayer">
+                  <pb n="166" facs="tcp:179960:96"/>
+                  <head>To put ones ſelf into the protection of Almighty God.</head>
+                  <p>
+                     <hi>SAviour</hi> of my ſoule, Author of my ſalvation! ſee the dangers wherein I am remaining in this life, ſuſtaine mee with your hand, that I may not fall, and governe me by your Spi<g ref="char:EOLhyphen"/>rit, that I wander not in the nations of my perverſe incli<g ref="char:EOLhyphen"/>nations. Defend me (good <hi>Ie<g ref="char:EOLhyphen"/>ſus</hi>) and deliver me from my ſelfe, and permit me not to ad<g ref="char:EOLhyphen"/>here to my affections, nor to fol<g ref="char:EOLhyphen"/>low my owne appetites: I re<g ref="char:EOLhyphen"/>nounce them all, ſince they ſe<g ref="char:EOLhyphen"/>parate me from you; and I con<g ref="char:EOLhyphen"/>jure your goodneſſ to annihi<g ref="char:EOLhyphen"/>late them, to the end, that ad<g ref="char:EOLhyphen"/>hering
+<pb n="167" facs="tcp:179960:96"/>wholly unto you, I may be for nothing but your ſelfe; for ſuch is my deſire, you know it, <hi>O love of my ſoule!</hi>
+                  </p>
+               </div>
+               <div type="prayer">
+                  <head>To ask the love of God.</head>
+                  <p>
+                     <hi>OBject of all Love, perfect Beauty, ineffable Goodneſſe!</hi> who can chooſe but love you? I purpoſe it, but am unable. I will love to death, and will die, but in loving you. Tranſpierce my heart with your love, and my body with your feare, effect <hi>(O powerfull God!)</hi> effect pow<g ref="char:EOLhyphen"/>erfully, that your Spirit may conſume in me, all that is of my ſelfe, that I may bee wholly yours, and love none but you,
+<pb n="168" facs="tcp:179960:97"/>and that living in you; I may die to all other things.</p>
+               </div>
+               <div type="prayer">
+                  <head>A proteſtation of Love.</head>
+                  <p>Shall I be alwaies overlight<g ref="char:EOLhyphen"/>ned in my ſelfe, diſtracted in my thoughts, inconſtant in my motions? How long will you permit me <hi>(Lord)</hi> to fol<g ref="char:EOLhyphen"/>low my owne inclinations, and to be violently affected with the Creature? Recall my ſpi<g ref="char:EOLhyphen"/>rit, withdraw it from all things, to retaine it for your ſelfe. Let not your juſt conduct (O <hi>moſt amiable goodneſſe</hi>) abandon me, for leaving me to my ſelf, blind that I am, I ſhould loſe my ſelfe in my Cupidities, and ſeparate
+<pb n="169" facs="tcp:179960:97"/>my ſelfe from you, to live no longer but for my ſelfe. Let death rather force me away, yea, fill <hi>(O God of love)</hi> fill rather my life with bitterneſſe, my heart with feare, and my ſoule with continuall diſpleaſure, then per<g ref="char:EOLhyphen"/>mit, that to pleaſe the Creature, or to ſatisfie my ſelfe, I may diſ<g ref="char:EOLhyphen"/>pleaſe your divine Majeſty.</p>
+               </div>
+               <div type="prayer">
+                  <head>An Act of Love.</head>
+                  <p>WHy ſhall I not love you <hi>(O moſt amiable good<g ref="char:EOLhyphen"/>neſſe?)</hi> You oblige me there<g ref="char:EOLhyphen"/>unto by your love, you attract me by your benefits, and you command it by your goodneſſe; I will then love you becauſe I
+<pb n="170" facs="tcp:179960:98"/>ought, and I deſire that my heart may love you with all his pow<g ref="char:EOLhyphen"/>er, becauſe nothing is amiable but your ſelfe: But I cannot love, if you inſpire me not with love. Abide then in me (O <hi>de<g ref="char:EOLhyphen"/>ſirable love!</hi>) live in me, to the end that following the lawes of your love, I may live, and con<g ref="char:EOLhyphen"/>ſummate my ſelfe in you.</p>
+               </div>
+               <div type="prayer">
+                  <head>Aſpirations of Love.</head>
+                  <p>VVhether are you gone <hi>(ſweet Spouſe of my ſoule?)</hi> Alas! I carry a heart repleniſhed with bitterneſſe, when I have no ſenſe of you. I keep my ſelf aloofe from you, loft in my thoughts, I perceive my ſelfe wandring in various objects, &amp; for a heighth of mi<g ref="char:EOLhyphen"/>ſerie,
+<pb n="171" facs="tcp:179960:98"/>I walke in the night of a heart, darkened with ſelfe-love. My life is all humane, and (as a child of <hi>Adam</hi>) my life is in the old man. I know not whether I have a being or no, only I know that I am miſerable: but to live in this ſort is a cruell death; it is not to live at all, to live without you; it is too long a Martirdome. Take pitty on my ſoule, returne and poſſeſſe me entirely. Reſtore me your ſpirit, give me your life and change my whole heart. Why can I not like a <hi>Phoenix,</hi> conſume my ſelfe in the ardors of your eternall love, and alter my courſe of life &amp; being, to be no longer but in you, &amp; to live no longer but for you? You can effect this <hi>(O God)</hi> who can do all things.</p>
+               </div>
+               <div type="prayer">
+                  <pb n="172" facs="tcp:179960:99"/>
+                  <head>Sighes of Love.</head>
+                  <p>MY eyes are bathed in teares, and my voice is broken with ſighes, my life is but a death, and all things are but a Martirdome to me, when I thinke where my God is. A<g ref="char:EOLhyphen"/>las! this thought makes me powr out all my ſoule, and I languiſh both day and night, when I know that I muſt remain in this abode of miſerie. I cry out from, the bottome of my heart, <hi>How long Lord, how long?</hi> And muſt I yet live for a long time in the land of the dead and (abſent from your face) remain among the perills of this miſerable life? Muſt I, being oppreſſed with my
+<pb n="173" facs="tcp:179960:99"/>body, feele my ſelfe removed from the ſweet attractives of your Careſſes; I am content with it, ſince it is your Pleaſure. <hi>Great God, Maſter of my ſoule!</hi> your will is my delight, your love my di<g ref="char:EOLhyphen"/>rection: But effect (<hi>O God,</hi> who can do all things) effect by your mercy, that as your Son, and my <hi>Ieſus</hi> lives only in love, and this love makes him die; ſo I may live no longer then in loving you, and that love may make me ſuffer.</p>
+               </div>
+               <div type="prayer">
+                  <head>To ſue for the contempt of all things.</head>
+                  <p>TOo long <hi>(O my ſoule)</hi> doeſt thou ſeeke vanity and af<g ref="char:EOLhyphen"/>fect lies: This world hath no<g ref="char:EOLhyphen"/>thing
+<pb n="174" facs="tcp:179960:100"/>in it ſtable &amp; permanent, all is periſhable therein; Good<g ref="char:EOLhyphen"/>neſſe, truth, peace and repoſe are found only in God; thou loſeſt thy ſelfe, in ſelfe-loving and ſee<g ref="char:EOLhyphen"/>king thy ſelfe, thou art eſtranged from God; Come then to my ſuccour (O <hi>Saviour of my ſoule!</hi>) and reach me your hand, diſſi<g ref="char:EOLhyphen"/>pate all theſe allurements, which detaine me captive: Open to me your heart (O my ſo amiable <hi>Ieſus!</hi>) to ſhelter me in the midſt of ſo many ſurprizes: ſee, Lord, ſee how from all ſides ſnares are laid for me, to make roe fall in love with this world : Doe not permit it (O <hi>love of my ſoule</hi>) my heart is for you alone, preſerve it then as yours.</p>
+               </div>
+               <div type="prayer">
+                  <pb n="175" facs="tcp:179960:100"/>
+                  <head>Another.</head>
+                  <p>MY eyes diſcerne not (O <hi>Adorable verity!</hi>) the er<g ref="char:EOLhyphen"/>rour of vanity, and my heart feels not the horrour of all vices: But come (O <hi>Sun of Iuſtice!</hi>) come and ſhine upon my ſoule, conſume with your beames all that is diſpleaſing to you; give me your ſpirit, which opens my eyes to diſcerne verity, which inſpires me with love to adhere unto it, which redreſſeth my will and teacheth it to deteſt the world, and gives me the grace to ſeek you alone, and to live only for the love of you.</p>
+               </div>
+               <div type="prayer">
+                  <pb n="176" facs="tcp:179960:101"/>
+                  <head>To demand light and di<g ref="char:EOLhyphen"/>rection for your ſoul.</head>
+                  <p>
+                     <hi>SUnne of Iuſtice!</hi> illuminate the darkneſſe of my ſpirit; <hi>Com<g ref="char:EOLhyphen"/>forter of ſoules!</hi> draw me out of the ignorance wherein I live. I walke in the ſhadow of death, a<g ref="char:EOLhyphen"/>midſt the perils of this life, and (ſevering my ſelfe from you, who are the way and life of my ſoule) I run like a vagabond into the curious reſearch of the ob<g ref="char:EOLhyphen"/>jects of my ſenſes: Do you not ſee it <hi>(O my God)</hi> who ſee all things: Come then to my ſuc<g ref="char:EOLhyphen"/>cour, <hi>(light of my ſoule)</hi> I aske no<g ref="char:EOLhyphen"/>thing but your ſelfe; my heart fighes after you, and my eyes ſeeke you every where. Dart
+<pb n="177" facs="tcp:179960:101"/>therefore <hi>(O Ieſus!)</hi> a glance of your face, infuſe a ray of your beauty in<g ref="char:EOLhyphen"/>to the bottome of my Soule, to call me back to you, and make me know who you are, and what I am; to the end I may be wholly yours, and that being no longer mine, I may love you alone.</p>
+               </div>
+               <div type="prayer">
+                  <head>To invoke Grace.</head>
+                  <p>
+                     <hi>GReat God!</hi> your Treaſures are unexhauſtible, and your hands full of gifts. You are rich only in goodneſſe, and in ſhewing mercy you evidence what you are. Mercy then <hi>Lord,</hi> mercy, for I am a ſinner, one glance of your eye, one word of your mouth can deliver me from evils; for while you look on me, I ſhall love you, while you ſpeake to me, I ſhall follow and run after you, in the odour of the ſweet perfumes of your heavenly grace.</p>
+               </div>
+               <div type="prayer">
+                  <pb n="178" facs="tcp:179960:102"/>
+                  <head>To call for Contrition.</head>
+                  <p>FRom the depth of my miſery I elevate my heart unto you, <hi>O God of goodneſſe!</hi> my ſoule ſighes after you, <hi>God of mercy!</hi> And now that I am ſenſible of my misfortune, &amp; that the weight of my ſins oppreſſe me within, I cry aloud unto you, lend me your eares, and fix on me your benigne eyes, to withdraw me from the evill whereunto I find my ſelfe faſtned. Give me your arme <hi>(Father of mercy)</hi> to ſuſtaine the yoke of my offences, light to know them, teares to bewaile them, and the zeale of your juſtice to ſatisfy for them; I can no longer endure the fouleneſſe of my life, nor to live any longer di<g ref="char:EOLhyphen"/>ſtant from you ; <hi>(O happineſſe of my ſoule!)</hi> I pant after you, you know it, but I cannot eſcape out of the place which captivates me, nor breake the bands which faſten me, if the pow<g ref="char:EOLhyphen"/>er
+<pb n="179" facs="tcp:179960:102"/>of your Spirit, and the Spirit of your love, doe not diſſolve and break them in pieces: looſen them then <hi>(O Lord)</hi> and render me the liberty, which you have purchaſed for your children at the price of your life.</p>
+               </div>
+               <div type="prayer">
+                  <head>Affection to accompliſh our good purpoſes.</head>
+                  <p>I Feel my ſelfe ſeized with a flame of love, which makes me proteſt never more to forſake you <hi>(O Jeſus, the love of my ſoule!)</hi> I am weary to ſee my ſelfe in the midſt of ſo many inconſtancies; I deſire to be entirely yours, you know it very well, <hi>Lord;</hi> for it is of you, as of a ſpring of goodneſſe, that my ſoule is full of deſires, and my will of good affecti<g ref="char:EOLhyphen"/>ons; it is a gift of your hand, pre<g ref="char:EOLhyphen"/>ſerve it by your grace, and give me your arme and benediction to up<g ref="char:EOLhyphen"/>hold
+<pb n="180" facs="tcp:179960:103"/>me in my good purpoſes, and that I may punctually accompliſh what I have promiſed you, ſtimula<g ref="char:EOLhyphen"/>ted and incited by the motions of your Spirit, alwayes holy; to the end you may finiſh and perfect in me, what you have begun by your infinite mercy; for without you I can doe nothing, and by you am en<g ref="char:EOLhyphen"/>abled to doe all things.</p>
+                  <trailer>FINIS.</trailer>
+               </div>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div xml:lang="lat" type="prayer">
+            <head>A PRAYER, which the Church uſeth to in<g ref="char:EOLhyphen"/>voke the love of God.</head>
+            <p>DE<g ref="char:V">Ʋ</g>S qui diligentibus te fa<g ref="char:EOLhyphen"/>cis cuncta prodeſſe: da cordibus noſtris inviolabilem tuae charitatis af<g ref="char:EOLhyphen"/>fectum: ut deſideria de tua inſpirati<g ref="char:EOLhyphen"/>one concept, nullâ poſſint tentatione mutari: Per Dominum noſtrum Je<g ref="char:EOLhyphen"/>ſum Chriſtum, <hi>&amp;c. Amen.</hi>
+            </p>
+            <pb facs="tcp:179960:103"/>
+         </div>
+      </back>
+   </text>
+</TEI>
